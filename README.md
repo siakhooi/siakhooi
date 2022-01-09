@@ -2,4 +2,4 @@
 
 <https://siakhooi.github.io>
 
-[Codility Challenges](Codility)
+[Codility Challenges](./Codility.md)
