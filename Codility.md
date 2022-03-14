@@ -1,5 +1,10 @@
 # Codility Challenges
 
+## 2022
+
+- [Year of the Tiger](https://github.com/siakhooi/codility-year-of-the-tiger-2022)
+- [Pair a Coder](https://github.com/siakhooi/codility-pairacoder-2022)
+
 ## 2021
 
 - [Code Alone](https://github.com/siakhooi/codility-codealone-2021)
