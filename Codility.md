@@ -2,6 +2,7 @@
 
 ## 2022
 
+- [Muad'Dib's](https://github.com/siakhooi/codility-muaddib-2022)
 - [Year of the Tiger](https://github.com/siakhooi/codility-year-of-the-tiger-2022)
 - [Pair a Coder](https://github.com/siakhooi/codility-pairacoder-2022)
 
