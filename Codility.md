@@ -2,23 +2,23 @@
 
 ## 2022
 
-- [Muad'Dib's](https://github.com/siakhooi/codility-muaddib-2022)
-- [Year of the Tiger](https://github.com/siakhooi/codility-year-of-the-tiger-2022)
-- [Pair a Coder](https://github.com/siakhooi/codility-pairacoder-2022)
+- [Muad'Dib's 2022](https://github.com/siakhooi/codility-muaddib-2022)
+- [Year of the Tiger 2022](https://github.com/siakhooi/codility-year-of-the-tiger-2022)
+- [Pair a Coder 2022](https://github.com/siakhooi/codility-pairacoder-2022)
 
 ## 2021
 
-- [Code Alone](https://github.com/siakhooi/codility-codealone-2021)
-- [Gamers](https://github.com/siakhooi/codility-gamers-2021)
-- [Spooktober](https://github.com/siakhooi/codility-spooktober-2021)
-- [National Coding Week](https://github.com/siakhooi/codility-national-coding-week-2021)
-- [Coder of Rivia](https://github.com/siakhooi/codility-coder-of-rivia-2021)
-- [Fast & Curious](https://github.com/siakhooi/codility-fast-and-curious-2021)
-- [The Fellowship of the Code](https://github.com/siakhooi/codility-fellowship-of-the-code-2021)
-- [May the 4th](https://github.com/siakhooi/codility-may-the-4th-2021)
-- [The Great Code Off](https://github.com/siakhooi/codility-great-code-off-2021)
-- [The Doge](https://github.com/siakhooi/codility-doge-2021)
-- [The Matrix](https://github.com/siakhooi/codility-matrix-2021)
+- [Code Alone 2021](https://github.com/siakhooi/codility-codealone-2021)
+- [Gamers 2021](https://github.com/siakhooi/codility-gamers-2021)
+- [Spooktober 2021](https://github.com/siakhooi/codility-spooktober-2021)
+- [National Coding Week 2021](https://github.com/siakhooi/codility-national-coding-week-2021)
+- [Coder of Rivia 2021](https://github.com/siakhooi/codility-coder-of-rivia-2021)
+- [Fast & Curious 2021](https://github.com/siakhooi/codility-fast-and-curious-2021)
+- [The Fellowship of the Code 2021](https://github.com/siakhooi/codility-fellowship-of-the-code-2021)
+- [May the 4th 2021](https://github.com/siakhooi/codility-may-the-4th-2021)
+- [The Great Code Off 2021](https://github.com/siakhooi/codility-great-code-off-2021)
+- [The Doge 2021](https://github.com/siakhooi/codility-doge-2021)
+- [The Matrix 2021](https://github.com/siakhooi/codility-matrix-2021)
 
 ## 2020
 
