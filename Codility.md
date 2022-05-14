@@ -2,6 +2,7 @@
 
 ## 2022
 
+- [Bug Wars: The Last Hope 2022](https://github.com/siakhooi/codility-bug-wars2022)
 - [Muad'Dib's 2022](https://github.com/siakhooi/codility-muaddib-2022)
 - [Year of the Tiger 2022](https://github.com/siakhooi/codility-year-of-the-tiger-2022)
 - [Pair a Coder 2022](https://github.com/siakhooi/codility-pairacoder-2022)
