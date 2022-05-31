@@ -1,11 +1,12 @@
 👋 Hi, I’m @siakhooi.
 
 ```
-   _____  _         __    __  __               _
-  / ___/ (_)____ _ / /__ / / / /____   ____   (_)
-  \__ \ / // __ `// //_// /_/ // __ \ / __ \ / /
- ___/ // // /_/ // ,<  / __  // /_/ // /_/ // /
-/____//_/ \__,_//_/|_|/_/ /_/ \____/ \____//_/
+  _____ _       _    _    _             _
+ / ____(_)     | |  | |  | |           (_)
+| (___  _  __ _| | _| |__| | ___   ___  _
+ \___ \| |/ _` | |/ /  __  |/ _ \ / _ \| |
+ ____) | | (_| |   <| |  | | (_) | (_) | |
+|_____/|_|\__,_|_|\_\_|  |_|\___/ \___/|_|
 ```
 
 ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-black?logo=oracle&logoColor=red)
@@ -17,6 +18,8 @@
 ![npm](https://img.shields.io/badge/-npm.js-black?logo=npm)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&logoColor=blue)
 ![SASS](https://img.shields.io/badge/-Sass-black?logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap)
+![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-black?logo=fontawesome)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5)
 ![React](https://img.shields.io/badge/-React-black?logo=react)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery)
@@ -30,25 +33,37 @@
 ![Maven](https://img.shields.io/badge/-Maven-black?logo=apachemaven)
 ![JMeter](https://img.shields.io/badge/-JMeter-black?logo=apachejmeter)
 ![Curl](https://img.shields.io/badge/-curl-black?logo=curl)
+![Shell](https://img.shields.io/badge/-Shell-black?logo=shell)
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-black?logo=gnubash)
 ![VS Code](https://img.shields.io/badge/-VSCode-black?logo=visualstudiocode&logoColor=blue)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-black?logo=notepadplusplus)
+![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-black?logo=windowsterminal)
 ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?logo=githubactions)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-black?logo=githubpages)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?logo=gitlab)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=jenkins)
+![Coveralls](https://img.shields.io/badge/-Coveralls-black?logo=coveralls)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
 ![Podman](https://img.shields.io/badge/-Podman-black?logo=podman)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes)
 ![Helm](https://img.shields.io/badge/-Helm-black?logo=helm)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-black?logo=virtualbox)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-black?logo=vagrant)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=ubuntu)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?logo=mariadb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql)
 ![OpenSSL](https://img.shields.io/badge/-OpenSSL-black?logo=openssl)
+![Freelancer](https://img.shields.io/badge/-Freelancer-black?logo=freelancer)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=ubuntu)
+![Fedora](https://img.shields.io/badge/-Fedora-black?logo=fedora)
+![Alpine Linux](https://img.shields.io/badge/-Alpine%20Linux-black?logo=alpinelinux)
+![Windows](https://img.shields.io/badge/-Windows-black?logo=windows)
+![Windows 95](https://img.shields.io/badge/-Windows%2095-black?logo=windows95)
+![Windows XP](https://img.shields.io/badge/-Windows%20XP-black?logo=windowsxp)
 
 [![SiakHooi.GitHub.io](https://img.shields.io/badge/-SiakHooi.GitHub.io-3dc55c)](https://siakhooi.github.io)
 [![Codility Challenges](https://img.shields.io/badge/-Codility%20Challenges-3dc55c)](./Codility.md)
