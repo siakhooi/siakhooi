@@ -68,7 +68,6 @@
 [![SiakHooi.GitHub.io](https://img.shields.io/badge/GitHub%20Pages-SiakHooi.GitHub.io-3dc55c?logo=githubpages)](https://siakhooi.github.io)
 [![Buy Me a Coffee](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg?logo=buymeacoffee)](https://www.buymeacoffee.com/siakhooi)
 [![Ko-Fi](https://img.shields.io/badge/Funding-Ko%20Fi-33cb56.svg?logo=kofi)](https://ko-fi.com/siakhooi)
-[![Codility Challenges](https://img.shields.io/badge/-Codility%20Challenges-3dc55c)](./Codility.md)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=siakhooi.siakhooi&left_color=grey&right_color=brightgreen)
 ![Codility](https://img.shields.io/badge/Codility-2022:-3dc55c?labelColor=grey)
 [![Bug Wars: The Last Hope](https://img.shields.io/badge/-Bug%20Wars:%20The%20Last%20Hope-gold)](https://github.com/siakhooi/codility-bug-wars2022)
@@ -100,3 +99,5 @@
 [![Zirconium](https://img.shields.io/badge/-Zirconium-blue)](https://github.com/siakhooi/codility-zirconium-2019)
 [![Yttrium](https://img.shields.io/badge/-Yttrium-blue)](https://github.com/siakhooi/codility-yttrium-2019)
 [![Strontium](https://img.shields.io/badge/-Strontium-blue)](https://github.com/siakhooi/codility-strontium-2019)
+![Codility](https://img.shields.io/badge/Codility-2018:-3dc55c?labelColor=grey)
+[![Rubidium](https://img.shields.io/badge/-Rubidium-blue)](https://github.com/siakhooi/codility-rubidium-2018)
