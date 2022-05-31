@@ -65,8 +65,14 @@
 ![Windows 95](https://img.shields.io/badge/-Windows%2095-black?logo=windows95)
 ![Windows XP](https://img.shields.io/badge/-Windows%20XP-black?logo=windowsxp)
 
-[![SiakHooi.GitHub.io](https://img.shields.io/badge/-SiakHooi.GitHub.io-3dc55c)](https://siakhooi.github.io)
+[![SiakHooi.GitHub.io](https://img.shields.io/badge/GitHub%20Pages-SiakHooi.GitHub.io-3dc55c?logo=githubpages)](https://siakhooi.github.io)
+[![Buy Me a Coffee](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg?logo=buymeacoffee)](https://www.buymeacoffee.com/siakhooi)
+[![Ko-Fi](https://img.shields.io/badge/Funding-Ko%20Fi-33cb56.svg?logo=kofi)](https://ko-fi.com/siakhooi)
 [![Codility Challenges](https://img.shields.io/badge/-Codility%20Challenges-3dc55c)](./Codility.md)
-[![Generic badge](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg)](https://www.buymeacoffee.com/siakhooi)
-[![Generic badge](https://img.shields.io/badge/Funding-Ko%20Fi-33cb56.svg)](https://ko-fi.com/siakhooi)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=siakhooi.siakhooi&left_color=grey&right_color=brightgreen)
+
+![Codility](https://img.shields.io/badge/Codility-2022:-3dc55c?labelColor=black)
+[![Bug Wars: The Last Hope](https://img.shields.io/badge/-Bug%20Wars:%20The%20Last%20Hope-blue)](https://github.com/siakhooi/codility-bug-wars2022)
+[![Muad'Dib's](https://img.shields.io/badge/-Muad'Dib's-blue)](https://github.com/siakhooi/codility-muaddib-2022)
+[![Year of the Tiger](https://img.shields.io/badge/-Year%20of%20the%20Tiger-blue)](https://github.com/siakhooi/codility-year-of-the-tiger-2022)
+[![Pair a Coder](https://img.shields.io/badge/-Pair%20a%20Coder-blue)](https://github.com/siakhooi/codility-pairacoder-2022)
