@@ -36,7 +36,6 @@
 ![Maven](https://img.shields.io/badge/-Maven-black?logo=apachemaven)
 ![JMeter](https://img.shields.io/badge/-JMeter-black?logo=apachejmeter)
 ![Curl](https://img.shields.io/badge/-curl-black?logo=curl)
-![Shell](https://img.shields.io/badge/-Shell-black?logo=shell)
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-black?logo=gnubash)
 ![VS Code](https://img.shields.io/badge/-VSCode-black?logo=visualstudiocode&logoColor=blue)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-black?logo=notepadplusplus)
