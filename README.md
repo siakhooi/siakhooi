@@ -1,12 +1,11 @@
 👋 Hi, I’m @siakhooi.
 
 ```
-  _____ _       _    _    _             _
- / ____(_)     | |  | |  | |           (_)
-| (___  _  __ _| | _| |__| | ___   ___  _
- \___ \| |/ _` | |/ /  __  |/ _ \ / _ \| |
- ____) | | (_| |   <| |  | | (_) | (_) | |
-|_____/|_|\__,_|_|\_\_|  |_|\___/ \___/|_|
+ ____  _       _      _   _             _
+/ ___|(_) __ _| | __ | | | | ___   ___ (_)
+\___ \| |/ _` | |/ / | |_| |/ _ \ / _ \| |
+ ___) | | (_| |   <  |  _  | (_) | (_) | |
+|____/|_|\__,_|_|\_\ |_| |_|\___/ \___/|_|
 ```
 
 ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-black?logo=oracle&logoColor=red)
@@ -52,6 +51,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-black?logo=gitlab)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=jenkins)
 ![Coveralls](https://img.shields.io/badge/-Coveralls-black?logo=coveralls)
+![Codecov](https://img.shields.io/badge/-Codecov-black?logo=codecov)
 ![SonarCloud](https://img.shields.io/badge/-SonarCloud-black?logo=sonarcloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
 ![Podman](https://img.shields.io/badge/-Podman-black?logo=podman)
@@ -83,6 +83,7 @@
 [![npm](https://img.shields.io/badge/Profile-npm-3dc55c?logo=npm)](https://www.npmjs.com/~siakhooi)
 [![Docker](https://img.shields.io/badge/Profile-Docker-3dc55c?logo=docker)](https://hub.docker.com/u/siakhooi)
 [![Coveralls](https://img.shields.io/badge/Profile-Coveralls-3dc55c?logo=coveralls)](https://coveralls.io/github/siakhooi)
+[![Codecov](https://img.shields.io/badge/Profile-Codecov-3dc55c?logo=codecov)](https://app.codecov.io/gh/siakhooi)
 [![SonarCloud](https://img.shields.io/badge/Profile-SonarCloud-3dc55c?logo=sonarcloud)](https://sonarcloud.io/organizations/siakhooi/projects)
 [![Buy Me a Coffee](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg?logo=buymeacoffee)](https://www.buymeacoffee.com/siakhooi)
 [![Ko-Fi](https://img.shields.io/badge/Funding-Ko%20Fi-33cb56.svg?logo=kofi)](https://ko-fi.com/siakhooi)
