@@ -54,6 +54,7 @@
 ![Coveralls](https://img.shields.io/badge/-Coveralls-black?logo=coveralls)
 ![Codecov](https://img.shields.io/badge/-Codecov-black?logo=codecov)
 ![Codacy](https://img.shields.io/badge/-Codacy-black?logo=codacy)
+![CodeClimate](https://img.shields.io/badge/-CodeClimate-black?logo=codeclimate)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
 ![Podman](https://img.shields.io/badge/-Podman-black?logo=podman)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes)
