@@ -110,7 +110,7 @@
 ![Codility](https://img.shields.io/badge/Codility-@2022-3dc55c?labelColor=grey)
 [![Fury Road](https://img.shields.io/badge/-Fury%20Road-gold)](https://github.com/siakhooi/codility-fury-road-2022)
 [![Bug Wars: The Last Hope](https://img.shields.io/badge/-Bug%20Wars:%20The%20Last%20Hope-gold)](https://github.com/siakhooi/codility-bug-wars2022)
-[![Muad'Dib's](https://img.shields.io/badge/-Muad'Dib's-gold)](https://github.com/siakhooi/codility-muaddib-2022)
+[![Muad'Dib's](https://img.shields.io/badge/-Muad'Dib's-blue)](https://github.com/siakhooi/codility-muaddib-2022)
 [![Year of the Tiger](https://img.shields.io/badge/-Year%20of%20the%20Tiger-blue)](https://github.com/siakhooi/codility-year-of-the-tiger-2022)
 [![Pair a Coder](https://img.shields.io/badge/-Pair%20a%20Coder-blue)](https://github.com/siakhooi/codility-pairacoder-2022)
 ![Codility](https://img.shields.io/badge/Codility-@2021-3dc55c?labelColor=grey)
