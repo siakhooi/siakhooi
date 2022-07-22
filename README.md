@@ -108,7 +108,7 @@
 [![Project](https://img.shields.io/badge/-https://syur.ga-silver)](https://syur.ga)
 [![Project](https://img.shields.io/badge/-Public%20API-silver?logo=json)](https://siakhooi.gitlab.io/public-api/)
 ![GitHub](https://img.shields.io/badge/Projects-@GitHub-3dc55c?labelColor=grey)
-[![Repo](https://img.shields.io/badge/-Number--to--chinese--words-silver?logo=typescript)](https://github.com/siakhooi/ts-number-to-chinese-words)
+[![Repo](https://img.shields.io/badge/-Number--to--chinese--words-silver?logo=typescript)](https://siakhooi.github.io/ts-number-to-chinese-words/)
 [![Repo](https://img.shields.io/badge/-SCP--sync--to--local-silver?logo=nodedotjs)](https://github.com/siakhooi/nodejs-scp-sync-to-local)
 [![Repo](https://img.shields.io/badge/-URL%20Shortener-silver?logo=express)](https://github.com/siakhooi/expressjs-url-shortener/)
 [![Project](https://img.shields.io/badge/-Tic--Tac--Toe-silver?logo=react)](https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe/)
