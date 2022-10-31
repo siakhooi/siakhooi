@@ -128,7 +128,7 @@
 [![Project](https://img.shields.io/badge/-Tionghua.info-silver?logo=php)](https://github.com/siakhooi/mywise-tionghua)
 ![Codility](https://img.shields.io/badge/Codility-@2022-3dc55c?labelColor=grey)
 [![Game of Codes](https://img.shields.io/badge/-Game%20of%20Codes-gold)](https://github.com/siakhooi/codility-game-of-codes-2022)
-[![National Coding Week](https://img.shields.io/badge/-National%20Coding%20Week-gold)](https://github.com/siakhooi/codility-national-coding-week-2022)
+[![National Coding Week](https://img.shields.io/badge/-National%20Coding%20Week-blue)](https://github.com/siakhooi/codility-national-coding-week-2022)
 [![Jurassic Code](https://img.shields.io/badge/-Jurassic%20Code-blue)](https://github.com/siakhooi/codility-jurassic-code-2022)
 [![Fury Road](https://img.shields.io/badge/-Fury%20Road-blue)](https://github.com/siakhooi/codility-fury-road-2022)
 [![Bug Wars: The Last Hope](https://img.shields.io/badge/-Bug%20Wars:%20The%20Last%20Hope-blue)](https://github.com/siakhooi/codility-bug-wars2022)
