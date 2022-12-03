@@ -95,7 +95,8 @@
 ![Windows XP](https://img.shields.io/badge/-Windows%20XP-black?logo=windowsxp)
 ![Wikipedia](https://img.shields.io/badge/-Wikipedia-black?logo=wikipedia)
 ![MuseScore](https://img.shields.io/badge/-MuseScore-black?logo=musescore)
-
+![ProtonMail](https://img.shields.io/badge/-ProtonMail-black?logo=protonmail)
+	
 [![SiakHooi.GitHub.io](https://img.shields.io/badge/Pages-SiakHooi.GitHub.io-3dc55c?logo=githubpages)](https://siakhooi.github.io)
 [![SiakHooi.GitLab.io](https://img.shields.io/badge/Pages-SiakHooi.GitLab.io-3dc55c?logo=gitlab)](https://siakhooi.gitlab.io)
 [![npm](https://img.shields.io/badge/Profile-npm-3dc55c?logo=npm)](https://www.npmjs.com/~siakhooi)
@@ -127,6 +128,7 @@
 [![Project](https://img.shields.io/badge/-MyWise%20Framework-silver?logo=php)](https://github.com/siakhooi/mywise)
 [![Project](https://img.shields.io/badge/-Tionghua.info-silver?logo=php)](https://github.com/siakhooi/mywise-tionghua)
 ![Codility](https://img.shields.io/badge/Codility-@2022-3dc55c?labelColor=grey)
+[![Carol of the Code](https://img.shields.io/badge/-Carol%20of%20the%20Code-gold)](https://github.com/siakhooi/codility-carol-of-the-code-2022)
 [![Game of Codes](https://img.shields.io/badge/-Game%20of%20Codes-gold)](https://github.com/siakhooi/codility-game-of-codes-2022)
 [![National Coding Week](https://img.shields.io/badge/-National%20Coding%20Week-blue)](https://github.com/siakhooi/codility-national-coding-week-2022)
 [![Jurassic Code](https://img.shields.io/badge/-Jurassic%20Code-blue)](https://github.com/siakhooi/codility-jurassic-code-2022)
