@@ -128,6 +128,8 @@
 [![Project](https://img.shields.io/badge/-G5%20Java%20Application%20Framework-silver?logo=openjdk)](https://siakhooi.github.io/java-g5-framework/)
 [![Project](https://img.shields.io/badge/-MyWise%20Framework-silver?logo=php)](https://github.com/siakhooi/mywise)
 [![Project](https://img.shields.io/badge/-Tionghua.info-silver?logo=php)](https://github.com/siakhooi/mywise-tionghua)
+![Codility](https://img.shields.io/badge/Codility-@2023-3dc55c?labelColor=grey)
+[![Carol of the Code](https://img.shields.io/badge/-Year%20of%20the%20Rabbit-gold)](https://github.com/siakhooi/codility-year-of-the-rabbit-2023)
 ![Codility](https://img.shields.io/badge/Codility-@2022-3dc55c?labelColor=grey)
 [![Carol of the Code](https://img.shields.io/badge/-Carol%20of%20the%20Code-gold)](https://github.com/siakhooi/codility-carol-of-the-code-2022)
 [![Game of Codes](https://img.shields.io/badge/-Game%20of%20Codes-blue)](https://github.com/siakhooi/codility-game-of-codes-2022)
