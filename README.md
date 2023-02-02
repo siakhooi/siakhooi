@@ -114,6 +114,7 @@
 [![Project](https://img.shields.io/badge/-https://syur.ga-silver)](https://syur.ga)
 [![Project](https://img.shields.io/badge/-Public%20API-silver?logo=json)](https://siakhooi.gitlab.io/public-api/)
 ![GitHub](https://img.shields.io/badge/Projects-@GitHub-3dc55c?labelColor=grey)
+[![Project](https://img.shields.io/badge/-CA-silver?logo=openssl)](https://siakhooi.github.io/ca)
 [![Repo](https://img.shields.io/badge/-Box--Drawing-silver?logo=typescript)](https://github.com/siakhooi/ts-box-drawing)
 [![Project](https://img.shields.io/badge/-https://bukusa.ga-silver)](https://bukusa.ga)
 [![Repo](https://img.shields.io/badge/-Number--to--chinese--words-silver?logo=typescript)](https://siakhooi.github.io/ts-number-to-chinese-words/)
