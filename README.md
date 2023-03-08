@@ -114,6 +114,7 @@
 [![Project](https://img.shields.io/badge/-https://syur.ga-silver)](https://syur.ga)
 [![Project](https://img.shields.io/badge/-Public%20API-silver?logo=json)](https://siakhooi.gitlab.io/public-api/)
 ![GitHub](https://img.shields.io/badge/Projects-@GitHub-3dc55c?labelColor=grey)
+[![Image-Sitter](https://img.shields.io/badge/-Image%20Sitter-silver?logo=linux)](https://github.com/siakhooi/image-sitter)
 [![DevUtils](https://img.shields.io/badge/-DevUtils-silver?logo=linux)](https://github.com/siakhooi/bash-devutils)
 [![Indent](https://img.shields.io/badge/-Indent-silver?logo=linux)](https://github.com/siakhooi/bash-devutils-indent)
 [![Date Formats](https://img.shields.io/badge/-Date%20Formats-silver?logo=linux)](https://github.com/siakhooi/bash-devutils-date-formats)
