@@ -136,7 +136,7 @@
 [![Project](https://img.shields.io/badge/-MyWise%20Framework-silver?logo=php)](https://github.com/siakhooi/mywise)
 [![Project](https://img.shields.io/badge/-Tionghua.info-silver?logo=php)](https://github.com/siakhooi/mywise-tionghua)
 ![Codility](https://img.shields.io/badge/Codility-@2023-3dc55c?labelColor=grey)
-[![CodilityChallenge](https://img.shields.io/badge/-Pi%20Challenget-gold)](https://github.com/siakhooi/codility-pi-challenge-2023)
+[![CodilityChallenge](https://img.shields.io/badge/-Pi%20Challenge-gold)](https://github.com/siakhooi/codility-pi-challenge-2023)
 [![CodilityChallenge](https://img.shields.io/badge/-Year%20of%20the%20Rabbit-gold)](https://github.com/siakhooi/codility-year-of-the-rabbit-2023)
 ![Codility](https://img.shields.io/badge/Codility-@2022-3dc55c?labelColor=grey)
 [![CodilityChallenge](https://img.shields.io/badge/-Carol%20of%20the%20Code-gold)](https://github.com/siakhooi/codility-carol-of-the-code-2022)
