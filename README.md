@@ -133,7 +133,7 @@
 [![Project](https://img.shields.io/badge/-Tionghua.info-silver?logo=php)](https://github.com/siakhooi/mywise-tionghua)
 
 ![GitLab](https://img.shields.io/badge/Projects-@GitLab-3dc55c?labelColor=grey)
-[![Project](https://img.shields.io/badge/-https://syur.ga-silver)](https://syur.ga)
+[![Project](https://img.shields.io/badge/-syurga-silver)](https://siakhooi.gitlab.io/syurga/)
 [![Project](https://img.shields.io/badge/-Public%20API-silver?logo=json)](https://siakhooi.gitlab.io/public-api/)
 
 ![GitHub](https://img.shields.io/badge/Projects-@GitHub-3dc55c?labelColor=grey)
