@@ -112,7 +112,6 @@
 [![Ko-Fi](https://img.shields.io/badge/Funding-Ko%20Fi-33cb56.svg?logo=kofi)](https://ko-fi.com/siakhooi)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=siakhooi.siakhooi&left_color=grey&right_color=brightgreen)
 ![counter](https://hit-tztugwlsja-uc.a.run.app/?outputtype=badge&counter=github.com-siakhooi)
-![Visitor Count](https://profile-counter.glitch.me/siakhooi/count.svg)
 
 ![bash](https://img.shields.io/badge/Projects-%40Github%3A%20%20bash-3dc55c?labelColor=grey)
 [![Shed](https://img.shields.io/badge/-Shed-silver?logo=linux)](https://github.com/siakhooi/shed)
