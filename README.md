@@ -110,7 +110,6 @@
 [![LGTM](https://img.shields.io/badge/Profile-LGTM-3dc55c?logo=lgtm)](https://lgtm.com/people/siakhooi)
 [![Buy Me a Coffee](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg?logo=buymeacoffee)](https://www.buymeacoffee.com/siakhooi)
 [![Ko-Fi](https://img.shields.io/badge/Funding-Ko%20Fi-33cb56.svg?logo=kofi)](https://ko-fi.com/siakhooi)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=siakhooi.siakhooi&left_color=grey&right_color=brightgreen)
 ![counter](https://hit-tztugwlsja-uc.a.run.app/?outputtype=badge&counter=github.com-siakhooi)
 
 ![bash](https://img.shields.io/badge/Projects-%40Github%3A%20%20bash-3dc55c?labelColor=grey)
