@@ -127,6 +127,9 @@
 [![npm-project](https://img.shields.io/badge/-Number--to--chinese--words-silver?logo=typescript)](https://siakhooi.github.io/ts-number-to-chinese-words/)
 [![npm-project](https://img.shields.io/badge/-SCP--sync--to--local-silver?logo=nodedotjs)](https://github.com/siakhooi/nodejs-scp-sync-to-local)
 
+![project](https://img.shields.io/badge/Projects-%40Firebase-3dc55c?labelColor=grey)
+[![npm-project](https://img.shields.io/badge/-Firebase--WebCounter--Langkasuka-silver?logo=typescript)](https://github.com/siakhooi/firebase-webcounter-langkasuka)
+
 ![Legacy](https://img.shields.io/badge/Projects-%40Github%3A%20%20Legacy-3dc55c?labelColor=grey)
 [![Project](https://img.shields.io/badge/-G5%20Java%20Application%20Framework-silver?logo=openjdk)](https://siakhooi.github.io/java-g5-framework/)
 [![Project](https://img.shields.io/badge/-MyWise%20Framework-silver?logo=php)](https://github.com/siakhooi/mywise)
