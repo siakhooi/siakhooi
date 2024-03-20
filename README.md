@@ -103,6 +103,7 @@
 [![SiakHooi.GitLab.io](https://img.shields.io/badge/Pages-SiakHooi.GitLab.io-3dc55c?logo=gitlab)](https://siakhooi.gitlab.io)
 [![npm](https://img.shields.io/badge/Profile-npm-3dc55c?logo=npm)](https://www.npmjs.com/~siakhooi)
 [![Docker](https://img.shields.io/badge/Profile-Docker-3dc55c?logo=docker)](https://hub.docker.com/u/siakhooi)
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/siakhooi)](https://artifacthub.io/packages/search?repo=siakhooi)
 [![SonarCloud](https://img.shields.io/badge/Profile-SonarCloud-3dc55c?logo=sonarcloud)](https://sonarcloud.io/organizations/siakhooi/projects)
 [![Coveralls](https://img.shields.io/badge/Profile-Coveralls-3dc55c?logo=coveralls)](https://coveralls.io/github/siakhooi)
 [![Codecov](https://img.shields.io/badge/Profile-Codecov-3dc55c?logo=codecov)](https://app.codecov.io/gh/siakhooi)
