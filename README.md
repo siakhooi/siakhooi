@@ -141,6 +141,8 @@
 
 ![GitHub](https://img.shields.io/badge/Projects-@GitHub-3dc55c?labelColor=grey)
 [![CA](https://img.shields.io/badge/-CA-silver?logo=openssl)](https://siakhooi.github.io/ca)
+[![Repository](https://img.shields.io/badge/-Helm%20Charts-silver?logo=helm)](https://siakhooi.github.io/helm-charts)
+[![Project](https://img.shields.io/badge/-Java%20CLI%20Semvery-silver?logo=openjdk)](https://siakhooi.github.io/javacli-semvery/)
 [![Project](https://img.shields.io/badge/-https://bukusa.ga-silver)](https://bukusa.ga)
 [![Repo](https://img.shields.io/badge/-URL%20Shortener-silver?logo=express)](https://github.com/siakhooi/expressjs-url-shortener/)
 [![Project](https://img.shields.io/badge/-Tic--Tac--Toe-silver?logo=react)](https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe/)
