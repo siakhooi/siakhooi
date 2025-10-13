@@ -8,7 +8,7 @@
 |____/|_|\__,_|_|\_\ |_| |_|\___/ \___/|_|
 ```
 
-![project](https://img.shields.io/badge/Projects-%40Github%3A%20%20bash-3dc55c?labelColor=grey)
+![project](https://img.shields.io/badge/Projects-%40bash-3dc55c?labelColor=grey)
 [![Shed](https://img.shields.io/badge/-Shed-silver?logo=linux)](https://github.com/siakhooi/shed)
 [![Image-Runner](https://img.shields.io/badge/-Image%20Runner-silver?logo=linux)](https://github.com/siakhooi/image-runner)
 [![Image-Sitter](https://img.shields.io/badge/-Image%20Sitter-silver?logo=linux)](https://github.com/siakhooi/image-sitter)
