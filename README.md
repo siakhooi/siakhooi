@@ -12,8 +12,11 @@
 [![Shed](https://img.shields.io/badge/-Shed-silver?logo=linux)](https://github.com/siakhooi/shed)
 [![Image-Runner](https://img.shields.io/badge/-Image%20Runner-silver?logo=linux)](https://github.com/siakhooi/image-runner)
 [![Image-Sitter](https://img.shields.io/badge/-Image%20Sitter-silver?logo=linux)](https://github.com/siakhooi/image-sitter)
+[![Buildo](https://img.shields.io/badge/-Buildo-silver?logo=linux)](https://github.com/siakhooi/buildo)
+[![Ore](https://img.shields.io/badge/-Ore-silver?logo=linux)](https://github.com/siakhooi/ore)
 [![DevUtils](https://img.shields.io/badge/-DevUtils-silver?logo=linux)](https://github.com/siakhooi/bash-devutils)
 [![TextUtils](https://img.shields.io/badge/-TextUtils-silver?logo=linux)](https://github.com/siakhooi/bash-textutils)
+[![FileUtils](https://img.shields.io/badge/-FileUtils-silver?logo=linux)](https://github.com/siakhooi/bash-fileutils)
 [![Date Formats](https://img.shields.io/badge/-Date%20Formats-silver?logo=linux)](https://github.com/siakhooi/bash-devutils-date-formats)
 [![Echo Colors](https://img.shields.io/badge/-Echo%20Colors-silver?logo=linux)](https://github.com/siakhooi/bash-devutils-echo-colors)
 [![APT](https://img.shields.io/badge/-APT%20Repository-silver?logo=linux)](https://siakhooi.github.io/apt/)
@@ -23,12 +26,17 @@
 [![python-project](https://img.shields.io/badge/-Python%20htmligator-silver?logo=python)](https://github.com/siakhooi/python-htmligator)
 [![python-project](https://img.shields.io/badge/-Python%20terminalizer2asciinema-silver?logo=python)](https://github.com/siakhooi/python-terminalizer2asciinema)
 [![python-project](https://img.shields.io/badge/-Python%20download--files--by--map-silver?logo=python)](https://github.com/siakhooi/python-download-files-by-map)
+[![python-project](https://img.shields.io/badge/-kafka--republisher-silver?logo=python)](https://github.com/siakhooi/kafka-republisher)
 
 ![project](https://img.shields.io/badge/Projects-%40Java-3dc55c?labelColor=grey)
 [![groovy-project](https://img.shields.io/badge/-Groovy%20cli%20path2json-silver?logo=apachegroovy)](https://github.com/siakhooi/groovycli-path2json)
-[![Project](https://img.shields.io/badge/-Java%20CLI%20Semvery-silver?logo=openjdk)](https://siakhooi.github.io/javacli-semvery/)
+[![Project](https://img.shields.io/badge/-Java%20CLI%20Semvery-silver?logo=openjdk)](https://github.com/siakhooi/javacli-semvery)
+[![Project](https://img.shields.io/badge/-Query-silver?logo=openjdk)](https://github.com/siakhooi/query)
 
-![project](https://img.shields.io/badge/Projects-%40Github%3A%20%20npm-3dc55c?labelColor=grey)
+![project](https://img.shields.io/badge/Projects-%40Go-3dc55c?labelColor=grey)
+[![Project](https://img.shields.io/badge/-Picsum-silver?logo=go)](https://github.com/siakhooi/picsum)
+
+![project](https://img.shields.io/badge/Projects-%40npm-3dc55c?labelColor=grey)
 [![npm-project](https://img.shields.io/badge/-Box--Drawing-silver?logo=typescript)](https://github.com/siakhooi/ts-box-drawing)
 [![npm-project](https://img.shields.io/badge/-Number--to--chinese--words-silver?logo=typescript)](https://siakhooi.github.io/ts-number-to-chinese-words/)
 [![npm-project](https://img.shields.io/badge/-SCP--sync--to--local-silver?logo=nodedotjs)](https://github.com/siakhooi/nodejs-scp-sync-to-local)
@@ -39,7 +47,7 @@
 ![project](https://img.shields.io/badge/Projects-%40Scratch-3dc55c?labelColor=grey)
 [![firebase-project](https://img.shields.io/badge/-Scratch%20Carbon%20war-silver?logo=scratch)](https://siakhooi.github.io/carbon-war/)
 
-![Legacy](https://img.shields.io/badge/Projects-%40Github%3A%20%20Legacy-3dc55c?labelColor=grey)
+![Legacy](https://img.shields.io/badge/Projects-%40Legacy-3dc55c?labelColor=grey)
 [![Project](https://img.shields.io/badge/-G5%20Java%20Application%20Framework-silver?logo=openjdk)](https://siakhooi.github.io/java-g5-framework/)
 [![Project](https://img.shields.io/badge/-MyWise%20Framework-silver?logo=php)](https://github.com/siakhooi/mywise)
 [![Project](https://img.shields.io/badge/-Tionghua.info-silver?logo=php)](https://github.com/siakhooi/mywise-tionghua)
@@ -50,15 +58,7 @@
 [![Project](https://img.shields.io/badge/-https://bukusa.ga-silver)](https://bukusa.ga)
 [![Repo](https://img.shields.io/badge/-URL%20Shortener-silver?logo=express)](https://github.com/siakhooi/expressjs-url-shortener/)
 [![Project](https://img.shields.io/badge/-Tic--Tac--Toe-silver?logo=react)](https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe/)
-[![Project](https://img.shields.io/badge/-MPs%203D%20Table-silver?logo=css3)](https://siakhooi.github.io/css3d_friendtable/)
-[![Project](https://img.shields.io/badge/-PI%20with%20Leibniz%20formula-silver?logo=openjdk)](https://github.com/siakhooi/java-pi)
 [![Project](https://img.shields.io/badge/-Clock%20Mouse%20Pointer-silver?logo=javascript)](https://siakhooi.github.io/javascript-clock-mouse-pointer/)
-[![Project](https://img.shields.io/badge/-Web%20Starter-silver?logo=docker)](https://siakhooi.github.io/docker-starter-web/)
-[![Project](https://img.shields.io/badge/-Vagrant%20Collections-silver?logo=vagrant)](https://github.com/siakhooi/vagrant-collections)
-
-![GitLab](https://img.shields.io/badge/Projects-@GitLab-3dc55c?labelColor=grey)
-[![Project](https://img.shields.io/badge/-syurga-silver)](https://siakhooi.gitlab.io/syurga/)
-[![Project](https://img.shields.io/badge/-Public%20API-silver?logo=json)](https://siakhooi.gitlab.io/public-api/)
 
 ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-black?logo=oracle&logoColor=red)
 ![Oracle ERP](https://img.shields.io/badge/-Oracle%20ERP-black?logo=oracle&logoColor=red)
@@ -172,4 +172,3 @@
 [![Buy Me a Coffee](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg?logo=buymeacoffee)](https://www.buymeacoffee.com/siakhooi)
 [![Ko-Fi](https://img.shields.io/badge/Funding-Ko%20Fi-33cb56.svg?logo=kofi)](https://ko-fi.com/siakhooi)
 ![visitors](https://hit-tztugwlsja-uc.a.run.app/?outputtype=badge&counter=ghmd-siakhooi)
-
