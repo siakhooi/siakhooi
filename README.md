@@ -19,7 +19,9 @@
 [![repo](https://img.shields.io/badge/-Echo%20Colors-silver?logo=linux)](https://github.com/siakhooi/bash-devutils-echo-colors)
 [![repo](https://img.shields.io/badge/-Buildo-silver?logo=linux)](https://github.com/siakhooi/buildo)
 [![repo](https://img.shields.io/badge/-Ore-silver?logo=linux)](https://github.com/siakhooi/ore)
+[![repo](https://img.shields.io/badge/-Ele-silver?logo=linux)](https://github.com/siakhooi/ele)
 [![repo](https://img.shields.io/badge/-Devy-silver?logo=linux)](https://github.com/siakhooi/bash-devy)
+[![repo](https://img.shields.io/badge/-Cerg-silver?logo=linux)](https://github.com/siakhooi/bash-cerg)
 
 ![category](https://img.shields.io/badge/Projects-%40Repositories-3dc55c?labelColor=grey)
 [![repo](https://img.shields.io/badge/-APT%20Repository-silver?logo=linux)](https://siakhooi.github.io/apt/)
