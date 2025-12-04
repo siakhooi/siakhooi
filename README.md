@@ -8,9 +8,11 @@
 |____/|_|\__,_|_|\_\ |_| |_|\___/ \___/|_|
 ```
 
-| Java Projects                              |                                                                        |                                                                |
-| ------------------------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [query](https://github.com/siakhooi/query) | [groovycli-path2json](https://github.com/siakhooi/groovycli-path2json) | [javacli-semvery](https://github.com/siakhooi/javacli-semvery) |
+| Java/Groovy |                                                 |                   |
+| ----------- | ----------------------------------------------- | ----------------- |
+| query       | https://github.com/siakhooi/query               | Java Microservice |
+| path2json   | https://github.com/siakhooi/groovycli-path2json | Groovy CLI        |
+| semvery     | https://github.com/siakhooi/javacli-semvery     | Java CLI          |
 
 | Python Projects                                                    |                                                                                     |                                                                                   |
 | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -18,9 +20,10 @@
 | [kafka-republisher](https://github.com/siakhooi/kafka-republisher) | [kafka-mocker](https://github.com/siakhooi/kafka-mocker)                            |
 | [response-mocker](https://github.com/siakhooi/response-mocker)     | [configmap-reader](https://github.com/siakhooi/configmap-reader)                    |
 
-| Go Projects                                  |
-| -------------------------------------------- |
-| [picsum](https://github.com/siakhooi/picsum) |
+| Go Projects |                                        |     |
+| ----------- | -------------------------------------- | --- |
+| picsum      | https://github.com/siakhooi/picsum     | CLI |
+| json2table  | https://github.com/siakhooi/json2table | CLI |
 
 | TypeScript/Firebase/NPM Projects                                                             |                                                                      |
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
@@ -35,9 +38,9 @@
 | [buildo](https://github.com/siakhooi/buildo)                                         | [bash-devy](https://github.com/siakhooi/bash-devy)                                 |
 | [ore](https://github.com/siakhooi/ore)                                               | [ele](https://github.com/siakhooi/ele)                                             | [bash-cerg](https://github.com/siakhooi/bash-cerg)           |
 
-| Scratch Projects                                     |
-| ---------------------------------------------------- |
-| [carbon-war](https://siakhooi.github.io/carbon-war/) |
+| Scratch    |                                        |
+| ---------- | -------------------------------------- |
+| carbon-war | https://siakhooi.github.io/carbon-war/ |
 
 | Quality    |                                                       |
 | ---------- | ----------------------------------------------------- |
@@ -45,30 +48,30 @@
 | Qlty.sh    | https://qlty.sh/gh/siakhooi/projects                  |
 | Codacy     | https://app.codacy.com/gh/siakhooi                    |
 
-| Repositories/Artifacts                       |                                                   |
-| -------------------------------------------- | ---------------------------------------------------- |
-| My APT Repo                                  | https://siakhooi.github.io/apt                       |
-| My RPMS Repo                                 | https://siakhooi.github.io/rpms                      |
-| My Helm Charts                               | https://siakhooi.github.io/helm-charts               |
-| My CA                                        | https://siakhooi.github.io/ca                        |
-| npmjs.com/~siakhooi                          | https://www.npmjs.com/~siakhooi                      |
-| docker.com/u/siakhooi                        | https://hub.docker.com/u/siakhooi                    |
-| pypi.org/user/siakhooi                       | https://pypi.org/user/siakhooi/                      |
-| Artifacthub.io/packages/search?repo=siakhooi | https://artifacthub.io/packages/search?repo=siakhooi |
+| Repositories/Artifacts |                                                      |
+| ---------------------- | ---------------------------------------------------- |
+| My APT Repo            | https://siakhooi.github.io/apt                       |
+| My RPMS Repo           | https://siakhooi.github.io/rpms                      |
+| My Helm Charts         | https://siakhooi.github.io/helm-charts               |
+| My CA                  | https://siakhooi.github.io/ca                        |
+| npmjs.com              | https://www.npmjs.com/~siakhooi                      |
+| hub.docker.com         | https://hub.docker.com/u/siakhooi                    |
+| pypi.org               | https://pypi.org/user/siakhooi/                      |
+| Artifacthub.io         | https://artifacthub.io/packages/search?repo=siakhooi |
 
 | Pages                                            |                                                  |
 | ------------------------------------------------ | ------------------------------------------------ |
 | [SiakHooi.GitHub.io](https://siakhooi.github.io) | [SiakHooi.GitLab.io](https://siakhooi.gitlab.io) |
 
-| Legacy Projects                  |                                                            |
-| -------------------------------- | ---------------------------------------------------------- |
-| G5 Java Application Framework    | https://siakhooi.github.io/java-g5-framework               |
-| MyWise Framework (PHP)           | https://github.com/siakhooi/mywise                         |
-| Tionghua.Info                    | https://github.com/siakhooi/mywise-tionghua                |
-| SCP-sync-to-local (nodejs)       | https://github.com/siakhooi/nodejs-scp-sync-to-local       |
-| URL-Shortener (expressjs)        | https://github.com/siakhooi/expressjs-url-shortener/       |
-| Tic-Tac-Toe (ReactJs)            | https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe/   |
-| Clock Mouse Pointer (Javascript) | https://siakhooi.github.io/javascript-clock-mouse-pointer/ |
+| Legacy Projects                       |                                                            |
+| ------------------------------------- | ---------------------------------------------------------- |
+| G5 Application Framework (Java Swing) | https://siakhooi.github.io/java-g5-framework               |
+| MyWise Framework (PHP)                | https://github.com/siakhooi/mywise                         |
+| Tionghua.Info (MyWise, PHP)           | https://github.com/siakhooi/mywise-tionghua                |
+| SCP-sync-to-local (nodejs)            | https://github.com/siakhooi/nodejs-scp-sync-to-local       |
+| URL-Shortener (expressjs)             | https://github.com/siakhooi/expressjs-url-shortener/       |
+| Tic-Tac-Toe (ReactJs)                 | https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe/   |
+| Clock Mouse Pointer (Javascript)      | https://siakhooi.github.io/javascript-clock-mouse-pointer/ |
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg?logo=buymeacoffee)](https://www.buymeacoffee.com/siakhooi)
 [![Ko-Fi](https://img.shields.io/badge/Funding-Ko%20Fi-33cb56.svg?logo=kofi)](https://ko-fi.com/siakhooi)
