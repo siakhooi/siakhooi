@@ -8,162 +8,68 @@
 |____/|_|\__,_|_|\_\ |_| |_|\___/ \___/|_|
 ```
 
-![category](https://img.shields.io/badge/Projects-%40bash-3dc55c?labelColor=grey)
-[![repo](https://img.shields.io/badge/-Shed-silver?logo=linux)](https://github.com/siakhooi/shed)
-[![repo](https://img.shields.io/badge/-Image%20Runner-silver?logo=linux)](https://github.com/siakhooi/image-runner)
-[![repo](https://img.shields.io/badge/-Image%20Sitter-silver?logo=linux)](https://github.com/siakhooi/image-sitter)
-[![repo](https://img.shields.io/badge/-DevUtils-silver?logo=linux)](https://github.com/siakhooi/bash-devutils)
-[![repo](https://img.shields.io/badge/-TextUtils-silver?logo=linux)](https://github.com/siakhooi/bash-textutils)
-[![repo](https://img.shields.io/badge/-FileUtils-silver?logo=linux)](https://github.com/siakhooi/bash-fileutils)
-[![repo](https://img.shields.io/badge/-Date%20Formats-silver?logo=linux)](https://github.com/siakhooi/bash-devutils-date-formats)
-[![repo](https://img.shields.io/badge/-Echo%20Colors-silver?logo=linux)](https://github.com/siakhooi/bash-devutils-echo-colors)
-[![repo](https://img.shields.io/badge/-Buildo-silver?logo=linux)](https://github.com/siakhooi/buildo)
-[![repo](https://img.shields.io/badge/-Ore-silver?logo=linux)](https://github.com/siakhooi/ore)
-[![repo](https://img.shields.io/badge/-Ele-silver?logo=linux)](https://github.com/siakhooi/ele)
-[![repo](https://img.shields.io/badge/-Devy-silver?logo=linux)](https://github.com/siakhooi/bash-devy)
-[![repo](https://img.shields.io/badge/-Cerg-silver?logo=linux)](https://github.com/siakhooi/bash-cerg)
+| Java Projects                              |                                                                        |                                                                |
+| ------------------------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [query](https://github.com/siakhooi/query) | [groovycli-path2json](https://github.com/siakhooi/groovycli-path2json) | [javacli-semvery](https://github.com/siakhooi/javacli-semvery) |
 
-![category](https://img.shields.io/badge/Projects-%40Repositories-3dc55c?labelColor=grey)
-[![repo](https://img.shields.io/badge/-APT%20Repository-silver?logo=linux)](https://siakhooi.github.io/apt/)
-[![repo](https://img.shields.io/badge/-RPMS%20Repository-silver?logo=linux)](https://siakhooi.github.io/rpms)
-[![repo](https://img.shields.io/badge/-Helm%20Charts-silver?logo=helm)](https://siakhooi.github.io/helm-charts)
-[![repo](https://img.shields.io/badge/-CA-silver?logo=openssl)](https://siakhooi.github.io/ca)
+| Python Projects                                                    |                                                                                     |                                                                                   |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [htmligator](https://github.com/siakhooi/python-htmligator)        | [terminalizer2asciinema](https://github.com/siakhooi/python-terminalizer2asciinema) | [download-files-by-map](https://github.com/siakhooi/python-download-files-by-map) |
+| [kafka-republisher](https://github.com/siakhooi/kafka-republisher) | [kafka-mocker](https://github.com/siakhooi/kafka-mocker)                            |
+| [response-mocker](https://github.com/siakhooi/response-mocker)     | [configmap-reader](https://github.com/siakhooi/configmap-reader)                    |
 
-![category](https://img.shields.io/badge/Projects-%40Python-3dc55c?labelColor=grey)
-[![repo](https://img.shields.io/badge/-htmligator-silver?logo=python)](https://github.com/siakhooi/python-htmligator)
-[![repo](https://img.shields.io/badge/-terminalizer2asciinema-silver?logo=python)](https://github.com/siakhooi/python-terminalizer2asciinema)
-[![repo](https://img.shields.io/badge/-download--files--by--map-silver?logo=python)](https://github.com/siakhooi/python-download-files-by-map)
-[![repo](https://img.shields.io/badge/-kafka--republisher-silver?logo=python)](https://github.com/siakhooi/kafka-republisher)
+| Go Projects                                  |
+| -------------------------------------------- |
+| [picsum](https://github.com/siakhooi/picsum) |
 
-![category](https://img.shields.io/badge/Projects-%40Java-3dc55c?labelColor=grey)
-[![repo](https://img.shields.io/badge/-path2json-silver?logo=apachegroovy)](https://github.com/siakhooi/groovycli-path2json)
-[![repo](https://img.shields.io/badge/-Semvery-silver?logo=openjdk)](https://github.com/siakhooi/javacli-semvery)
-[![repo](https://img.shields.io/badge/-Query-silver?logo=openjdk)](https://github.com/siakhooi/query)
+| TypeScript/Firebase/NPM Projects                                                             |                                                                      |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [firebase-webcounter-langkasuka](https://github.com/siakhooi/firebase-webcounter-langkasuka) | [siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io) |
+| [ts-number-to-chinese-words](https://github.com/siakhooi/ts-number-to-chinese-words)         | [ts-box-drawing](https://github.com/siakhooi/ts-box-drawing)         |
 
-![category](https://img.shields.io/badge/Projects-%40Go-3dc55c?labelColor=grey)
-[![repo](https://img.shields.io/badge/-Picsum-silver?logo=go)](https://github.com/siakhooi/picsum)
+| Bash Projects                                                                        |                                                                                    |                                                              |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [shed](https://github.com/siakhooi/shed)                                             | [image-runner](https://github.com/siakhooi/image-runner)                           | [image-sitter](https://github.com/siakhooi/image-sitter)     |
+| [bash-devutils](https://github.com/siakhooi/bash-devutils)                           | [bash-textutils](https://github.com/siakhooi/bash-textutils)                       | [bash-fileutils](https://github.com/siakhooi/bash-fileutils) |
+| [bash-devutils-date-formats](https://github.com/siakhooi/bash-devutils-date-formats) | [bash-devutils-echo-colors](https://github.com/siakhooi/bash-devutils-echo-colors) |
+| [buildo](https://github.com/siakhooi/buildo)                                         | [bash-devy](https://github.com/siakhooi/bash-devy)                                 |
+| [ore](https://github.com/siakhooi/ore)                                               | [ele](https://github.com/siakhooi/ele)                                             | [bash-cerg](https://github.com/siakhooi/bash-cerg)           |
 
-![category](https://img.shields.io/badge/Projects-%40npm-3dc55c?labelColor=grey)
-[![repo](https://img.shields.io/badge/-Box--Drawing-silver?logo=typescript)](https://github.com/siakhooi/ts-box-drawing)
-[![repo](https://img.shields.io/badge/-Number--to--chinese--words-silver?logo=typescript)](https://siakhooi.github.io/ts-number-to-chinese-words/)
+| Scratch Projects                                     |
+| ---------------------------------------------------- |
+| [carbon-war](https://siakhooi.github.io/carbon-war/) |
 
-![category](https://img.shields.io/badge/Projects-%40Firebase-3dc55c?labelColor=grey)
-[![repo](https://img.shields.io/badge/-WebCounter--Langkasuka-silver?logo=typescript)](https://github.com/siakhooi/firebase-webcounter-langkasuka)
+| Quality    |                                                       |
+| ---------- | ----------------------------------------------------- |
+| SonarCloud | https://sonarcloud.io/organizations/siakhooi/projects |
+| Qlty.sh    | https://qlty.sh/gh/siakhooi/projects                  |
+| Codacy     | https://app.codacy.com/gh/siakhooi                    |
 
-![category](https://img.shields.io/badge/Projects-%40Scratch-3dc55c?labelColor=grey)
-[![repo](https://img.shields.io/badge/-Scratch%20Carbon%20war-silver?logo=scratch)](https://siakhooi.github.io/carbon-war/)
+| Repositories/Artifacts                       |                                                   |
+| -------------------------------------------- | ---------------------------------------------------- |
+| My APT Repo                                  | https://siakhooi.github.io/apt                       |
+| My RPMS Repo                                 | https://siakhooi.github.io/rpms                      |
+| My Helm Charts                               | https://siakhooi.github.io/helm-charts               |
+| My CA                                        | https://siakhooi.github.io/ca                        |
+| npmjs.com/~siakhooi                          | https://www.npmjs.com/~siakhooi                      |
+| docker.com/u/siakhooi                        | https://hub.docker.com/u/siakhooi                    |
+| pypi.org/user/siakhooi                       | https://pypi.org/user/siakhooi/                      |
+| Artifacthub.io/packages/search?repo=siakhooi | https://artifacthub.io/packages/search?repo=siakhooi |
 
-![category](https://img.shields.io/badge/Projects-%40Legacy-3dc55c?labelColor=grey)
-[![repo](https://img.shields.io/badge/-G5%20Java%20Application%20Framework-silver?logo=openjdk)](https://siakhooi.github.io/java-g5-framework/)
-[![repo](https://img.shields.io/badge/-MyWise%20Framework-silver?logo=php)](https://github.com/siakhooi/mywise)
-[![repo](https://img.shields.io/badge/-Tionghua.info-silver?logo=php)](https://github.com/siakhooi/mywise-tionghua)
-[![repo](https://img.shields.io/badge/-SCP--sync--to--local-silver?logo=nodedotjs)](https://github.com/siakhooi/nodejs-scp-sync-to-local)
-[![repo](https://img.shields.io/badge/-https://bukusa.ga-silver)](https://bukusa.ga)
-[![repo](https://img.shields.io/badge/-URL%20Shortener-silver?logo=express)](https://github.com/siakhooi/expressjs-url-shortener/)
-[![repo](https://img.shields.io/badge/-Tic--Tac--Toe-silver?logo=react)](https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe/)
-[![repo](https://img.shields.io/badge/-Clock%20Mouse%20Pointer-silver?logo=javascript)](https://siakhooi.github.io/javascript-clock-mouse-pointer/)
+| Pages                                            |                                                  |
+| ------------------------------------------------ | ------------------------------------------------ |
+| [SiakHooi.GitHub.io](https://siakhooi.github.io) | [SiakHooi.GitLab.io](https://siakhooi.gitlab.io) |
 
-![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-black?logo=oracle&logoColor=red)
-![Oracle ERP](https://img.shields.io/badge/-Oracle%20ERP-black?logo=oracle&logoColor=red)
-![Java](https://img.shields.io/badge/-Java-black?logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=nodedotjs)
-![npm](https://img.shields.io/badge/-npm-black?logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-black?logo=yarn)
-![Webpack](https://img.shields.io/badge/-Webpack-black?logo=webpack)
-![jsDelivr](https://img.shields.io/badge/-jsDelivr-black?logo=jsdelivr)
-![Electron](https://img.shields.io/badge/-Electron-black?logo=electron)
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&logoColor=blue)
-![SASS](https://img.shields.io/badge/-Sass-black?logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap)
-![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-black?logo=fontawesome)
-![Google Fonts](https://img.shields.io/badge/-Google%20Fonts-black?logo=googlefonts)
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5)
-![React](https://img.shields.io/badge/-React-black?logo=react)
-![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery)
-![Express](https://img.shields.io/badge/-Express-black?logo=express)
-![JSON](https://img.shields.io/badge/-JSON-black?logo=json)
-![ESLint](https://img.shields.io/badge/-ESLint-black?logo=eslint)
-![Jest](https://img.shields.io/badge/-Jest-black?logo=jest&logoColor=red)
-![OpenJDK](https://img.shields.io/badge/-OpenJDK-black?logo=openjdk)
-![JUnit5](https://img.shields.io/badge/-Junit5-black?logo=junit5)
-![Spring](https://img.shields.io/badge/-Spring-black?logo=spring)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=springboot)
-![Ant](https://img.shields.io/badge/-Ant-black?logo=apacheant)
-![Maven](https://img.shields.io/badge/-Maven-black?logo=apachemaven)
-![JMeter](https://img.shields.io/badge/-JMeter-black?logo=apachejmeter)
-![Curl](https://img.shields.io/badge/-curl-black?logo=curl)
-![JSON Web Tokens](https://img.shields.io/badge/-JSON%20Web%20Tokens-black?logo=jsonwebtokens)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?logo=graphql)
-![Python](https://img.shields.io/badge/-Python-black?logo=python)
-![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-black?logo=robotframework)
-![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-black?logo=gnubash)
-![VS Code](https://img.shields.io/badge/-VSCode-black?logo=visualstudiocode&logoColor=blue)
-![Notepad++](https://img.shields.io/badge/-Notepad++-black?logo=notepadplusplus)
-![Nano](https://img.shields.io/badge/-Nano-black?logo=nano)
-![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-black?logo=windowsterminal)
-![Postman](https://img.shields.io/badge/-Postman-black?logo=postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-black?logo=insomnia)
-![diagrams.net](https://img.shields.io/badge/-diagrams.net-black?logo=diagramsdotnet)
-![Filezilla](https://img.shields.io/badge/-Filezilla-black?logo=filezilla)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?logo=googlecloud)
-![Git](https://img.shields.io/badge/-Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?logo=githubactions)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-black?logo=githubpages)
-![GitLab](https://img.shields.io/badge/-GitLab-black?logo=gitlab)
-![GitIgnore.io](https://img.shields.io/badge/-GitIgnore.io-black?logo=gitignoredotio)
-![Markdown](https://img.shields.io/badge/-Markdown-black?logo=markdown)
-![Gerrit](https://img.shields.io/badge/-Gerrit-black?logo=gerrit)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=jenkins)
-![SonarCloud](https://img.shields.io/badge/-SonarCloud-black?logo=sonarcloud)
-![Codacy](https://img.shields.io/badge/-Codacy-black?logo=codacy)
-![Snyk](https://img.shields.io/badge/-Snyk-black?logo=snyk)
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
-![Podman](https://img.shields.io/badge/-Podman-black?logo=podman)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes)
-![Helm](https://img.shields.io/badge/-Helm-black?logo=helm)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-black?logo=virtualbox)
-![Vagrant](https://img.shields.io/badge/-Vagrant-black?logo=vagrant)
-![QEMU](https://img.shields.io/badge/-QEMU-black?logo=qemu)
-![Artifact Hub](https://img.shields.io/badge/-Artifact%20Hub-black?logo=artifacthub)
-![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase)
-![Prometheus](https://img.shields.io/badge/-Prometheus-black?logo=prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-black?logo=grafana)
-![MariaDB](https://img.shields.io/badge/-MariaDB-black?logo=mariadb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)
-![Cassandra](https://img.shields.io/badge/-Cassandra-black?logo=apachecassandra)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql)
-![mongodb](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
-![Liquibase](https://img.shields.io/badge/-Liquibase-black?logo=liquibase)
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?logo=apachekafka)
-![PHP](https://img.shields.io/badge/-PHP-black?logo=php)
-![XAMPP](https://img.shields.io/badge/-XAMPP-black?logo=xampp&logoColor=blue)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-black?logo=phpmyadmin&logoColor=blue)
-![OpenSSL](https://img.shields.io/badge/-OpenSSL-black?logo=openssl)
-![GNU Privacy Guard](https://img.shields.io/badge/-GNU%20Privacy%20Guard-black?logo=gnuprivacyguard)
-![Freelancer](https://img.shields.io/badge/-Freelancer-black?logo=freelancer)
-![SemVer](https://img.shields.io/badge/-Semver-black?logo=semver)
-![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=ubuntu)
-![Debian](https://img.shields.io/badge/-Debian-black?logo=debian)
-![Fedora](https://img.shields.io/badge/-Fedora-black?logo=fedora)
-![Alpine Linux](https://img.shields.io/badge/-Alpine%20Linux-black?logo=alpinelinux)
-![Windows](https://img.shields.io/badge/-Windows-black?logo=windows)
-![Windows 95](https://img.shields.io/badge/-Windows%2095-black?logo=windows95)
-![Windows XP](https://img.shields.io/badge/-Windows%20XP-black?logo=windowsxp)
-![Wikipedia](https://img.shields.io/badge/-Wikipedia-black?logo=wikipedia)
-![MuseScore](https://img.shields.io/badge/-MuseScore-black?logo=musescore)
-![ProtonMail](https://img.shields.io/badge/-ProtonMail-black?logo=protonmail)
+| Legacy Projects                  |                                                            |
+| -------------------------------- | ---------------------------------------------------------- |
+| G5 Java Application Framework    | https://siakhooi.github.io/java-g5-framework               |
+| MyWise Framework (PHP)           | https://github.com/siakhooi/mywise                         |
+| Tionghua.Info                    | https://github.com/siakhooi/mywise-tionghua                |
+| SCP-sync-to-local (nodejs)       | https://github.com/siakhooi/nodejs-scp-sync-to-local       |
+| URL-Shortener (expressjs)        | https://github.com/siakhooi/expressjs-url-shortener/       |
+| Tic-Tac-Toe (ReactJs)            | https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe/   |
+| Clock Mouse Pointer (Javascript) | https://siakhooi.github.io/javascript-clock-mouse-pointer/ |
 
-[![SiakHooi.GitHub.io](https://img.shields.io/badge/Pages-SiakHooi.GitHub.io-3dc55c?logo=githubpages)](https://siakhooi.github.io)
-[![SiakHooi.GitLab.io](https://img.shields.io/badge/Pages-SiakHooi.GitLab.io-3dc55c?logo=gitlab)](https://siakhooi.gitlab.io)
-[![npm](https://img.shields.io/badge/Profile-npm-3dc55c?logo=npm)](https://www.npmjs.com/~siakhooi)
-[![Docker](https://img.shields.io/badge/Profile-Docker-3dc55c?logo=docker)](https://hub.docker.com/u/siakhooi)
-[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/siakhooi)](https://artifacthub.io/packages/search?repo=siakhooi)
-[![SonarCloud](https://img.shields.io/badge/Profile-SonarCloud-3dc55c?logo=sonarcloud)](https://sonarcloud.io/organizations/siakhooi/projects)
-[![Codacy](https://img.shields.io/badge/Profile-Codacy-3dc55c?logo=codacy)](https://app.codacy.com/gh/siakhooi)
 [![Buy Me a Coffee](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg?logo=buymeacoffee)](https://www.buymeacoffee.com/siakhooi)
 [![Ko-Fi](https://img.shields.io/badge/Funding-Ko%20Fi-33cb56.svg?logo=kofi)](https://ko-fi.com/siakhooi)
 ![visitors](https://hit-tztugwlsja-uc.a.run.app/?outputtype=badge&counter=ghmd-siakhooi)
