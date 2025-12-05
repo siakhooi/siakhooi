@@ -8,35 +8,43 @@
 |____/|_|\__,_|_|\_\ |_| |_|\___/ \___/|_|
 ```
 
-| Java/Groovy |                                                 |                   |
-| ----------- | ----------------------------------------------- | ----------------- |
-| query       | https://github.com/siakhooi/query               | Java Microservice |
-| path2json   | https://github.com/siakhooi/groovycli-path2json | Groovy CLI        |
-| semvery     | https://github.com/siakhooi/javacli-semvery     | Java CLI          |
+| Java/Groovy                                                                     |                                                  |
+| ------------------------------------------------------------------------------- | ------------------------------------------------ |
+| [siakhooi/javacli-semvery](https://github.com/siakhooi/javacli-semvery)         | Java CLI semver utilities                        |
+| [siakhooi/groovycli-path2json](https://github.com/siakhooi/groovycli-path2json) | Groovy CLI tree directory to json                |
+| [siakhooi/query](https://github.com/siakhooi/query)                             | [Beta] Microservice that query backend databases |
 
-| Python Projects                                                    |                                                                                     |                                                                                   |
-| ------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [htmligator](https://github.com/siakhooi/python-htmligator)        | [terminalizer2asciinema](https://github.com/siakhooi/python-terminalizer2asciinema) | [download-files-by-map](https://github.com/siakhooi/python-download-files-by-map) |
-| [kafka-republisher](https://github.com/siakhooi/kafka-republisher) | [kafka-mocker](https://github.com/siakhooi/kafka-mocker)                            |
-| [response-mocker](https://github.com/siakhooi/response-mocker)     | [configmap-reader](https://github.com/siakhooi/configmap-reader)                    |
+| Python Projects                                                                                     |
+| --------------------------------------------------------------------------------------------------- |
+| [siakhooi/python-htmligator](https://github.com/siakhooi/python-htmligator)                         |
+| [siakhooi/python-terminalizer2asciinema](https://github.com/siakhooi/python-terminalizer2asciinema) |
+| [siakhooi/python-download-files-by-map](https://github.com/siakhooi/python-download-files-by-map)   |
 
-| Go Projects |                                        |     |
-| ----------- | -------------------------------------- | --- |
-| picsum      | https://github.com/siakhooi/picsum     | CLI |
-| json2table  | https://github.com/siakhooi/json2table | CLI |
+Beta: [kafka-republisher](https://github.com/siakhooi/kafka-republisher) [configmap-reader](https://github.com/siakhooi/configmap-reader)
 
-| TypeScript/Firebase/NPM Projects                                                             |                                                                      |
-| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [firebase-webcounter-langkasuka](https://github.com/siakhooi/firebase-webcounter-langkasuka) | [siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io) |
-| [ts-number-to-chinese-words](https://github.com/siakhooi/ts-number-to-chinese-words)         | [ts-box-drawing](https://github.com/siakhooi/ts-box-drawing)         |
+Alphas: [kafka-mocker](https://github.com/siakhooi/kafka-mocker) [response-mocker](https://github.com/siakhooi/response-mocker) [bpmn-print](https://github.com/siakhooi/bpmn-print)
 
-| Bash Projects                                                                        |                                                                                    |                                                              |
-| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [shed](https://github.com/siakhooi/shed)                                             | [image-runner](https://github.com/siakhooi/image-runner)                           | [image-sitter](https://github.com/siakhooi/image-sitter)     |
-| [bash-devutils](https://github.com/siakhooi/bash-devutils)                           | [bash-textutils](https://github.com/siakhooi/bash-textutils)                       | [bash-fileutils](https://github.com/siakhooi/bash-fileutils) |
-| [bash-devutils-date-formats](https://github.com/siakhooi/bash-devutils-date-formats) | [bash-devutils-echo-colors](https://github.com/siakhooi/bash-devutils-echo-colors) |
-| [buildo](https://github.com/siakhooi/buildo)                                         | [bash-devy](https://github.com/siakhooi/bash-devy)                                 |
-| [ore](https://github.com/siakhooi/ore)                                               | [ele](https://github.com/siakhooi/ele)                                             | [bash-cerg](https://github.com/siakhooi/bash-cerg)           |
+| Go Projects                                                    |                                            |
+| -------------------------------------------------------------- | ------------------------------------------ |
+| [siakhooi/picsum](https://github.com/siakhooi/picsum)          | [Beta] CLI client to https://picsum.photos |
+| [siakhooi/fjson2table](https://github.com/siakhooi/json2table) | [Alpha] CLI                                |
+
+| TypeScript/Firebase/NPM Projects                                                                      |                                 |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------- |
+| [siakhooi/firebase-webcounter-langkasuka](https://github.com/siakhooi/firebase-webcounter-langkasuka) | Web counter                     |
+| [siakhooi/ts-number-to-chinese-words](https://github.com/siakhooi/ts-number-to-chinese-words)         | Convert number to chinese words |
+| [siakhooi/ts-box-drawing](https://github.com/siakhooi/ts-box-drawing)                                 | Draw boxes in console           |
+| [siakhooi/siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io)                         |
+
+| Bash Projects                                                     |                                              |
+| ----------------------------------------------------------------- | -------------------------------------------- |
+| [siakhooi/shed](https://github.com/siakhooi/shed)                 | working with kubernetes clusters at ease     |
+| [siakhooi/image-runner](https://github.com/siakhooi/image-runner) | run docker images with configured parameters |
+| [siakhooi/image-sitter](https://github.com/siakhooi/image-sitter) | manage local docker images                   |
+
+Utils: [bash-devutils](https://github.com/siakhooi/bash-devutils) [bash-textutils](https://github.com/siakhooi/bash-textutils) [bash-fileutils](https://github.com/siakhooi/bash-fileutils) [bash-devutils-date-formats](https://github.com/siakhooi/bash-devutils-date-formats) [bash-devutils-echo-colors](https://github.com/siakhooi/bash-devutils-echo-colors) [buildo](https://github.com/siakhooi/buildo) [bash-devy](https://github.com/siakhooi/bash-devy)
+
+Alphas: [ore](https://github.com/siakhooi/ore) [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/siakhooi/bash-cerg)
 
 | Scratch    |                                        |
 | ---------- | -------------------------------------- |
@@ -58,6 +66,43 @@
 | hub.docker.com         | https://hub.docker.com/u/siakhooi                    |
 | pypi.org               | https://pypi.org/user/siakhooi/                      |
 | Artifacthub.io         | https://artifacthub.io/packages/search?repo=siakhooi |
+
+| Codility Challenges             |                                                                  |
+| ------------------------------- | ---------------------------------------------------------------- |
+| Pi Code Challenge 2023          | (private)                                                        |
+| Year of the Rabbit 2023         | https://github.com/siakhooi/codility-year-of-the-rabbit-2023     |
+| Carol of the Code 2022          | https://github.com/siakhooi/codility-carol-of-the-code-2022      |
+| Game of Codes 2022              | https://github.com/siakhooi/codility-game-of-codes-2022          |
+| National Coding Week 2022       | https://github.com/siakhooi/codility-national-coding-week-2022   |
+| Jurassic Code 2022              | https://github.com/siakhooi/codility-jurassic-code-2022          |
+| Fury Road 2022                  | https://github.com/siakhooi/codility-fury-road-2022              |
+| Bug Wars: The Last Hope 2022    | https://github.com/siakhooi/codility-bug-wars2022                |
+| Muad'Dib's 2022                 | https://github.com/siakhooi/codility-muaddib-2022                |
+| Year of the Tiger 2022          | https://github.com/siakhooi/codility-year-of-the-tiger-2022      |
+| Pair a Coder 2022               | https://github.com/siakhooi/codility-pairacoder-2022             |
+| Code Alone 2021                 | https://github.com/siakhooi/codility-codealone-2021              |
+| Gamers 2021                     | https://github.com/siakhooi/codility-gamers-2021                 |
+| Spooktober 2021                 | https://github.com/siakhooi/codility-spooktober-2021             |
+| National Coding Week 2021       | https://github.com/siakhooi/codility-national-coding-week-2021   |
+| Coder of Rivia 2021             | https://github.com/siakhooi/codility-coder-of-rivia-2021         |
+| Fast & Curious 2021             | https://github.com/siakhooi/codility-fast-and-curious-2021       |
+| The Fellowship of the Code 2021 | https://github.com/siakhooi/codility-fellowship-of-the-code-2021 |
+| May the 4th 2021                | https://github.com/siakhooi/codility-may-the-4th-2021            |
+| The Great Code Off 2021         | https://github.com/siakhooi/codility-great-code-off-2021         |
+| The Doge 2021                   | https://github.com/siakhooi/codility-doge-2021                   |
+| The Matrix 2021                 | https://github.com/siakhooi/codility-matrix-2021                 |
+| The OLX Group 2020              | https://github.com/siakhooi/codility-olx-group-2020              |
+| Silver 2020                     | https://github.com/siakhooi/codility-silver-2020                 |
+| Palladium 2020                  | https://github.com/siakhooi/codility-palladium-2020              |
+| Rhodium 2019                    | https://github.com/siakhooi/codility-rhodium-2019                |
+| Ruthenium 2019                  | https://github.com/siakhooi/codility-ruthenium-2019              |
+| Technetium 2019                 | https://github.com/siakhooi/codility-technetium-2019             |
+| Molybdenum 2019                 | https://github.com/siakhooi/codility-molybdenum-2019             |
+| Niobium 2019                    | https://github.com/siakhooi/codility-niobium-2019                |
+| Zirconium 2019                  | https://github.com/siakhooi/codility-zirconium-2019              |
+| Yttrium 2019                    | https://github.com/siakhooi/codility-yttrium-2019                |
+| Strontium 2019                  | https://github.com/siakhooi/codility-strontium-2019              |
+| Rubidium 2018                   | https://github.com/siakhooi/codility-rubidium-2018               |
 
 | Pages                                            |                                                  |
 | ------------------------------------------------ | ------------------------------------------------ |
