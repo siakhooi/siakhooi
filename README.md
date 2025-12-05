@@ -19,15 +19,16 @@
 | [siakhooi/python-htmligator](https://github.com/siakhooi/python-htmligator)                         |
 | [siakhooi/python-terminalizer2asciinema](https://github.com/siakhooi/python-terminalizer2asciinema) |
 | [siakhooi/python-download-files-by-map](https://github.com/siakhooi/python-download-files-by-map)   |
+| [siakhooi/configmap-reader](https://github.com/siakhooi/configmap-reader)                           |
 
-Beta: [kafka-republisher](https://github.com/siakhooi/kafka-republisher) [configmap-reader](https://github.com/siakhooi/configmap-reader)
+Beta: [kafka-republisher](https://github.com/siakhooi/kafka-republisher)
 
 Alphas: [kafka-mocker](https://github.com/siakhooi/kafka-mocker) [response-mocker](https://github.com/siakhooi/response-mocker) [bpmn-print](https://github.com/siakhooi/bpmn-print)
 
-| Go Projects                                                    |                                            |
-| -------------------------------------------------------------- | ------------------------------------------ |
-| [siakhooi/picsum](https://github.com/siakhooi/picsum)          | [Beta] CLI client to https://picsum.photos |
-| [siakhooi/fjson2table](https://github.com/siakhooi/json2table) | [Alpha] CLI                                |
+| Go Projects                                                   |                                            |
+| ------------------------------------------------------------- | ------------------------------------------ |
+| [siakhooi/picsum](https://github.com/siakhooi/picsum)         | [Beta] CLI client to https://picsum.photos |
+| [siakhooi/json2table](https://github.com/siakhooi/json2table) | [Alpha] CLI                                |
 
 | TypeScript/Firebase/NPM Projects                                                                      |                                 |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------- |
