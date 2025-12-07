@@ -23,16 +23,17 @@
 
 Beta: [kafka-republisher](https://github.com/siakhooi/kafka-republisher)
 
-Alphas: [kafka-mocker](https://github.com/siakhooi/kafka-mocker) [response-mocker](https://github.com/siakhooi/response-mocker) [bpmn-print](https://github.com/siakhooi/bpmn-print)
+Alphas: [bpmn-print](https://github.com/siakhooi/bpmn-print) [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mocker](https://github.com/siakhooi/kafka-mocker) [response-mocker](https://github.com/siakhooi/response-mocker)
 
-| Go Projects                                                   |                                            |
-| ------------------------------------------------------------- | ------------------------------------------ |
-| [siakhooi/picsum](https://github.com/siakhooi/picsum)         | [Beta] CLI client to https://picsum.photos |
-| [siakhooi/json2table](https://github.com/siakhooi/json2table) | [Alpha] CLI                                |
+| Go Projects                                                           |                                     |
+| --------------------------------------------------------------------- | ----------------------------------- |
+| [siakhooi/picsum](https://github.com/siakhooi/picsum)                 | CLI client to https://picsum.photos |
+| [siakhooi/json2table](https://github.com/siakhooi/json2table)         | [Alpha] CLI                         |
+| [siakhooi/planning-poker](https://github.com/siakhooi/planning-poker) | [Alpha] web app                     |
 
 | TypeScript/Firebase/NPM Projects                                                                      |                                 |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------- |
-| [siakhooi/firebase-webcounter-langkasuka](https://github.com/siakhooi/firebase-webcounter-langkasuka) | Web counter                     |
+| [siakhooi/firebase-webcounter-langkasuka](https://github.com/siakhooi/firebase-webcounter-langkasuka) | Web counter (Firebase)          |
 | [siakhooi/ts-number-to-chinese-words](https://github.com/siakhooi/ts-number-to-chinese-words)         | Convert number to chinese words |
 | [siakhooi/ts-box-drawing](https://github.com/siakhooi/ts-box-drawing)                                 | Draw boxes in console           |
 | [siakhooi/siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io)                         |
