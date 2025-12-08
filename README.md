@@ -14,20 +14,19 @@
 | [siakhooi/groovycli-path2json](https://github.com/siakhooi/groovycli-path2json) | Groovy CLI tree directory to json                |
 | [siakhooi/query](https://github.com/siakhooi/query)                             | [Beta] Microservice that query backend databases |
 
-| Python Projects                                                                                     |
-| --------------------------------------------------------------------------------------------------- |
-| [siakhooi/python-htmligator](https://github.com/siakhooi/python-htmligator)                         |
-| [siakhooi/python-terminalizer2asciinema](https://github.com/siakhooi/python-terminalizer2asciinema) |
-| [siakhooi/python-download-files-by-map](https://github.com/siakhooi/python-download-files-by-map)   |
-| [siakhooi/configmap-reader](https://github.com/siakhooi/configmap-reader)                           |
-
-Beta: [kafka-republisher](https://github.com/siakhooi/kafka-republisher)
+| Python Projects                                                                                     |                                                                          |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [siakhooi/python-htmligator](https://github.com/siakhooi/python-htmligator)                         | generate wrapper html files to navigate folder contents                  |
+| [siakhooi/python-terminalizer2asciinema](https://github.com/siakhooi/python-terminalizer2asciinema) | convert terminalizer to asciinema format                                 |
+| [siakhooi/python-download-files-by-map](https://github.com/siakhooi/python-download-files-by-map)   | download files based on json map                                         |
+| [siakhooi/configmap-reader](https://github.com/siakhooi/configmap-reader)                           | microservice to return content of configmap                              |
+| [kafka-republisher](https://github.com/siakhooi/kafka-republisher)                                  | Republish kafka message from one topic to another, optionally with delay |
 
 Alphas: [bpmn-print](https://github.com/siakhooi/bpmn-print) [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mocker](https://github.com/siakhooi/kafka-mocker) [response-mocker](https://github.com/siakhooi/response-mocker)
 
 | Go Projects                                                           |                                     |
 | --------------------------------------------------------------------- | ----------------------------------- |
-| [siakhooi/picsum](https://github.com/siakhooi/picsum)                 | CLI client to https://picsum.photos |
+| [siakhooi/picsum](https://github.com/siakhooi/picsum)                 | CLI client for https://picsum.photos |
 | [siakhooi/json2table](https://github.com/siakhooi/json2table)         | [Alpha] CLI                         |
 | [siakhooi/planning-poker](https://github.com/siakhooi/planning-poker) | [Alpha] web app                     |
 
