@@ -112,6 +112,7 @@ Alphas: [ore](https://github.com/siakhooi/ore) [ele](https://github.com/siakhooi
 
 | Legacy Projects                       |                                                            |
 | ------------------------------------- | ---------------------------------------------------------- |
+| Github.io/Bukusaga                    | https://siakhooi.github.io/bukusaga                        |
 | G5 Application Framework (Java Swing) | https://siakhooi.github.io/java-g5-framework               |
 | MyWise Framework (PHP)                | https://github.com/siakhooi/mywise                         |
 | Tionghua.Info (MyWise, PHP)           | https://github.com/siakhooi/mywise-tionghua                |
