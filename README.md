@@ -38,15 +38,16 @@ Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mo
 | [ts-box-drawing](https://github.com/siakhooi/ts-box-drawing)                                 | Draw boxes in console           |
 | [siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io)                         |
 
-| Bash Projects                                            |                                              |
-| -------------------------------------------------------- | -------------------------------------------- |
-| [shed](https://github.com/siakhooi/shed)                 | working with kubernetes clusters at ease     |
-| [image-runner](https://github.com/siakhooi/image-runner) | run docker images with configured parameters |
-| [image-sitter](https://github.com/siakhooi/image-sitter) | manage local docker images                   |
+| Bash Projects                                            |                                                                  |
+| -------------------------------------------------------- | ---------------------------------------------------------------- |
+| [shed](https://github.com/siakhooi/shed)                 | working with kubernetes clusters at ease                         |
+| [image-runner](https://github.com/siakhooi/image-runner) | run docker images with configured parameters                     |
+| [image-sitter](https://github.com/siakhooi/image-sitter) | manage local docker images                                       |
+| [ore](https://github.com/siakhooi/ore)                   | automatically download,distribute artifacts from various sources |
 
 Utils: [bash-devutils](https://github.com/siakhooi/bash-devutils) [bash-textutils](https://github.com/siakhooi/bash-textutils) [bash-fileutils](https://github.com/siakhooi/bash-fileutils) [bash-devutils-date-formats](https://github.com/siakhooi/bash-devutils-date-formats) [bash-devutils-echo-colors](https://github.com/siakhooi/bash-devutils-echo-colors) [buildo](https://github.com/siakhooi/buildo) [bash-devy](https://github.com/siakhooi/bash-devy)
 
-Alphas: [ore](https://github.com/siakhooi/ore) [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/siakhooi/bash-cerg)
+Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/siakhooi/bash-cerg)
 
 | Scratch    |                                        |
 | ---------- | -------------------------------------- |
