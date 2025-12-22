@@ -12,7 +12,7 @@
 | ------------------------------------------------------------------------------- | ------------------------------------------------ |
 | [siakhooi/javacli-semvery](https://github.com/siakhooi/javacli-semvery)         | Java CLI semver utilities                        |
 | [siakhooi/groovycli-path2json](https://github.com/siakhooi/groovycli-path2json) | Groovy CLI tree directory to json                |
-| [siakhooi/query](https://github.com/siakhooi/query)                             | [Beta] Microservice that query backend databases |
+| [query](https://github.com/siakhooi/query)                                      | [Beta] Microservice that query backend databases |
 
 | Python Projects                                                                                     |                                                                          |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
@@ -122,6 +122,7 @@ Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/si
 | Tic-Tac-Toe (ReactJs)                 | https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe/   |
 | Clock Mouse Pointer (Javascript)      | https://siakhooi.github.io/javascript-clock-mouse-pointer/ |
 
+[![Wise](https://img.shields.io/badge/Funding-Wise-33cb56.svg?logo=wise)](https://wise.com/pay/me/siakn3)
 [![Buy Me a Coffee](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg?logo=buymeacoffee)](https://www.buymeacoffee.com/siakhooi)
 [![Ko-Fi](https://img.shields.io/badge/Funding-Ko%20Fi-33cb56.svg?logo=kofi)](https://ko-fi.com/siakhooi)
 ![visitors](https://hit-tztugwlsja-uc.a.run.app/?outputtype=badge&counter=ghmd-siakhooi)
