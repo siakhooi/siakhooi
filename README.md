@@ -8,20 +8,20 @@
 |____/|_|\__,_|_|\_\ |_| |_|\___/ \___/|_|
 ```
 
-| Java/Groovy                                                                     |                                           |
-| ------------------------------------------------------------------------------- | ----------------------------------------- |
-| [query](https://github.com/siakhooi/query)                                      | Microservice that query backend databases |
-| [siakhooi/javacli-semvery](https://github.com/siakhooi/javacli-semvery)         | Java CLI semver utilities                 |
-| [siakhooi/groovycli-path2json](https://github.com/siakhooi/groovycli-path2json) | Groovy CLI tree directory to json         |
+| Java/Groovy                                        |                                           |
+| -------------------------------------------------- | ----------------------------------------- |
+| [query](https://github.com/siakhooi/query)         | Microservice that query backend databases |
+| [semvery](https://github.com/siakhooi/semvery)     | CLI for semver utilities                  |
+| [path2json](https://github.com/siakhooi/path2json) | CLI print tree directory to json          |
 
-| Python Projects                                                              |                                                                          |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [htmligator](https://github.com/siakhooi/htmligator)                         | generate wrapper html files to navigate folder contents                  |
-| [terminalizer2asciinema](https://github.com/siakhooi/terminalizer2asciinema) | convert terminalizer to asciinema format                                 |
-| [download-files-by-map](https://github.com/siakhooi/download-files-by-map)   | download files based on json map                                         |
-| [configmap-reader](https://github.com/siakhooi/configmap-reader)             | microservice to return content of configmap                              |
-| [kafka-republisher](https://github.com/siakhooi/kafka-republisher)           | Republish kafka message from one topic to another, optionally with delay |
-| [bpmn-print](https://github.com/siakhooi/bpmn-print)                         | create pdf for bpmn files                                                |
+| Python Projects                                                              |                                                                   |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [htmligator](https://github.com/siakhooi/htmligator)                         | CLI generate wrapper html files to navigate folder contents       |
+| [terminalizer2asciinema](https://github.com/siakhooi/terminalizer2asciinema) | CLI convert terminalizer to asciinema format                      |
+| [download-files-by-map](https://github.com/siakhooi/download-files-by-map)   | CLI download files based on json map                              |
+| [configmap-reader](https://github.com/siakhooi/configmap-reader)             | Microservice to return content of configmap                       |
+| [kafka-republisher](https://github.com/siakhooi/kafka-republisher)           | Microserivce to Republish kafka message from one topic to another |
+| [bpmn-print](https://github.com/siakhooi/bpmn-print)                         | CLI to create pdf for bpmn files                                  |
 
 Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mocker](https://github.com/siakhooi/kafka-mocker) [response-mocker](https://github.com/siakhooi/response-mocker)
 
@@ -31,12 +31,12 @@ Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mo
 | [json2table](https://github.com/siakhooi/json2table)         | [Alpha] CLI                          |
 | [planning-poker](https://github.com/siakhooi/planning-poker) | [Alpha] web app                      |
 
-| TypeScript/Firebase/NPM Projects                                                             |                                 |
-| -------------------------------------------------------------------------------------------- | ------------------------------- |
-| [firebase-webcounter-langkasuka](https://github.com/siakhooi/firebase-webcounter-langkasuka) | Web counter (Firebase)          |
-| [ts-number-to-chinese-words](https://github.com/siakhooi/ts-number-to-chinese-words)         | Convert number to chinese words |
-| [ts-box-drawing](https://github.com/siakhooi/ts-box-drawing)                                 | Draw boxes in console           |
-| [siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io)                         | Github User Site                |
+| TypeScript/Firebase/NPM Projects                                                             |                                                |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [firebase-webcounter-langkasuka](https://github.com/siakhooi/firebase-webcounter-langkasuka) | Serverless function fro Web counter (Firebase) |
+| [ts-number-to-chinese-words](https://github.com/siakhooi/ts-number-to-chinese-words)         | Library to Convert number to chinese words     |
+| [ts-box-drawing](https://github.com/siakhooi/ts-box-drawing)                                 | Library to Draw boxes in console               |
+| [siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io)                         | Github User Site                               |
 
 | Bash Projects                                            |                                                                  |
 | -------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -45,7 +45,7 @@ Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mo
 | [image-sitter](https://github.com/siakhooi/image-sitter) | manage local docker images                                       |
 | [ore](https://github.com/siakhooi/ore)                   | automatically download,distribute artifacts from various sources |
 
-Utils: [bash-devutils](https://github.com/siakhooi/bash-devutils) [bash-textutils](https://github.com/siakhooi/bash-textutils) [bash-fileutils](https://github.com/siakhooi/bash-fileutils) [bash-devutils-date-formats](https://github.com/siakhooi/bash-devutils-date-formats) [bash-devutils-echo-colors](https://github.com/siakhooi/bash-devutils-echo-colors) [buildo](https://github.com/siakhooi/buildo) [bash-devy](https://github.com/siakhooi/bash-devy)
+Developer Utils: [bash-devutils](https://github.com/siakhooi/bash-devutils) [bash-textutils](https://github.com/siakhooi/bash-textutils) [bash-fileutils](https://github.com/siakhooi/bash-fileutils) [bash-devutils-date-formats](https://github.com/siakhooi/bash-devutils-date-formats) [bash-devutils-echo-colors](https://github.com/siakhooi/bash-devutils-echo-colors) [buildo](https://github.com/siakhooi/buildo) [bash-devy](https://github.com/siakhooi/bash-devy)
 
 Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/siakhooi/bash-cerg)
 
