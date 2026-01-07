@@ -107,7 +107,7 @@ Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/si
 | Strontium 2019                  | https://github.com/siakhooi/codility-strontium-2019              |
 | Rubidium 2018                   | https://github.com/siakhooi/codility-rubidium-2018               |
 
-| Pages        |
+| Pages        |                                                  |
 | ------------ | ------------------------------------------------ |
 | Github Pages | [SiakHooi.GitHub.io](https://siakhooi.github.io) |
 | Gitlab Pages | [SiakHooi.GitLab.io](https://siakhooi.gitlab.io) |
