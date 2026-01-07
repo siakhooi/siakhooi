@@ -8,20 +8,20 @@
 |____/|_|\__,_|_|\_\ |_| |_|\___/ \___/|_|
 ```
 
-| Java/Groovy                                                                     |                                                  |
-| ------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [siakhooi/javacli-semvery](https://github.com/siakhooi/javacli-semvery)         | Java CLI semver utilities                        |
-| [siakhooi/groovycli-path2json](https://github.com/siakhooi/groovycli-path2json) | Groovy CLI tree directory to json                |
-| [query](https://github.com/siakhooi/query)                                      | [Beta] Microservice that query backend databases |
+| Java/Groovy                                                                     |                                           |
+| ------------------------------------------------------------------------------- | ----------------------------------------- |
+| [query](https://github.com/siakhooi/query)                                      | Microservice that query backend databases |
+| [siakhooi/javacli-semvery](https://github.com/siakhooi/javacli-semvery)         | Java CLI semver utilities                 |
+| [siakhooi/groovycli-path2json](https://github.com/siakhooi/groovycli-path2json) | Groovy CLI tree directory to json         |
 
-| Python Projects                                                                                     |                                                                          |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [siakhooi/python-htmligator](https://github.com/siakhooi/python-htmligator)                         | generate wrapper html files to navigate folder contents                  |
-| [siakhooi/python-terminalizer2asciinema](https://github.com/siakhooi/python-terminalizer2asciinema) | convert terminalizer to asciinema format                                 |
-| [siakhooi/python-download-files-by-map](https://github.com/siakhooi/python-download-files-by-map)   | download files based on json map                                         |
-| [configmap-reader](https://github.com/siakhooi/configmap-reader)                                    | microservice to return content of configmap                              |
-| [kafka-republisher](https://github.com/siakhooi/kafka-republisher)                                  | Republish kafka message from one topic to another, optionally with delay |
-| [bpmn-print](https://github.com/siakhooi/bpmn-print)                                                | create pdf for bpmn files                                                |
+| Python Projects                                                              |                                                                          |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [htmligator](https://github.com/siakhooi/htmligator)                         | generate wrapper html files to navigate folder contents                  |
+| [terminalizer2asciinema](https://github.com/siakhooi/terminalizer2asciinema) | convert terminalizer to asciinema format                                 |
+| [download-files-by-map](https://github.com/siakhooi/download-files-by-map)   | download files based on json map                                         |
+| [configmap-reader](https://github.com/siakhooi/configmap-reader)             | microservice to return content of configmap                              |
+| [kafka-republisher](https://github.com/siakhooi/kafka-republisher)           | Republish kafka message from one topic to another, optionally with delay |
+| [bpmn-print](https://github.com/siakhooi/bpmn-print)                         | create pdf for bpmn files                                                |
 
 Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mocker](https://github.com/siakhooi/kafka-mocker) [response-mocker](https://github.com/siakhooi/response-mocker)
 
@@ -36,7 +36,7 @@ Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mo
 | [firebase-webcounter-langkasuka](https://github.com/siakhooi/firebase-webcounter-langkasuka) | Web counter (Firebase)          |
 | [ts-number-to-chinese-words](https://github.com/siakhooi/ts-number-to-chinese-words)         | Convert number to chinese words |
 | [ts-box-drawing](https://github.com/siakhooi/ts-box-drawing)                                 | Draw boxes in console           |
-| [siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io)                         |
+| [siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io)                         | Github User Site                |
 
 | Bash Projects                                            |                                                                  |
 | -------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -107,9 +107,10 @@ Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/si
 | Strontium 2019                  | https://github.com/siakhooi/codility-strontium-2019              |
 | Rubidium 2018                   | https://github.com/siakhooi/codility-rubidium-2018               |
 
-| Pages                                            |                                                  |
-| ------------------------------------------------ | ------------------------------------------------ |
-| [SiakHooi.GitHub.io](https://siakhooi.github.io) | [SiakHooi.GitLab.io](https://siakhooi.gitlab.io) |
+| Pages        |
+| ------------ | ------------------------------------------------ |
+| Github Pages | [SiakHooi.GitHub.io](https://siakhooi.github.io) |
+| Gitlab Pages | [SiakHooi.GitLab.io](https://siakhooi.gitlab.io) |
 
 | Legacy Projects                       |                                                            |
 | ------------------------------------- | ---------------------------------------------------------- |
