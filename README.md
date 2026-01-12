@@ -8,13 +8,13 @@
 |____/|_|\__,_|_|\_\ |_| |_|\___/ \___/|_|
 ```
 
-| Java/Groovy                                        |                                           |
+|                                                    | Java/Groovy Projects                      |
 | -------------------------------------------------- | ----------------------------------------- |
 | [query](https://github.com/siakhooi/query)         | Microservice that query backend databases |
 | [semvery](https://github.com/siakhooi/semvery)     | CLI for semver utilities                  |
 | [path2json](https://github.com/siakhooi/path2json) | CLI print tree directory to json          |
 
-| Python Projects                                                              |                                                                   |
+|                                                                              | Python Projects                                                   |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [htmligator](https://github.com/siakhooi/htmligator)                         | CLI generate wrapper html files to navigate folder contents       |
 | [terminalizer2asciinema](https://github.com/siakhooi/terminalizer2asciinema) | CLI convert terminalizer to asciinema format                      |
@@ -25,20 +25,20 @@
 
 Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mocker](https://github.com/siakhooi/kafka-mocker) [response-mocker](https://github.com/siakhooi/response-mocker)
 
-| Go Projects                                                  |                                      |
+|                                                              | Go Projects                          |
 | ------------------------------------------------------------ | ------------------------------------ |
 | [picsum](https://github.com/siakhooi/picsum)                 | CLI client for https://picsum.photos |
 | [json2table](https://github.com/siakhooi/json2table)         | [Alpha] CLI                          |
 | [planning-poker](https://github.com/siakhooi/planning-poker) | [Alpha] web app                      |
 
-| TypeScript/Firebase/NPM Projects                                                             |                                                |
+|                                                                                              | TypeScript/Firebase/NPM Projects               |
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | [firebase-webcounter-langkasuka](https://github.com/siakhooi/firebase-webcounter-langkasuka) | Serverless function fro Web counter (Firebase) |
 | [ts-number-to-chinese-words](https://github.com/siakhooi/ts-number-to-chinese-words)         | Library to Convert number to chinese words     |
 | [ts-box-drawing](https://github.com/siakhooi/ts-box-drawing)                                 | Library to Draw boxes in console               |
 | [siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io)                         | Github User Site                               |
 
-| Bash Projects                                            |                                                                  |
+|                                                          | Bash Projects                                                    |
 | -------------------------------------------------------- | ---------------------------------------------------------------- |
 | [shed](https://github.com/siakhooi/shed)                 | working with kubernetes clusters at ease                         |
 | [image-runner](https://github.com/siakhooi/image-runner) | run docker images with configured parameters                     |
@@ -49,28 +49,33 @@ Developer Utils: [bash-devutils](https://github.com/siakhooi/bash-devutils) [bas
 
 Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/siakhooi/bash-cerg)
 
-| Scratch    |                                        |
+|                                                      | AI Projects                                   |
+| ---------------------------------------------------- | --------------------------------------------- |
+| [bitwise](https://siakhooi.github.io/model-bitwise/) | Bitwise XOR - NN's hello world again!         |
+| [iris](https://siakhooi.github.io/model-irs/)        | Iris - Machine Learning (supervised learning) |
+
+|            | Scratch Projects                       |
 | ---------- | -------------------------------------- |
 | carbon-war | https://siakhooi.github.io/carbon-war/ |
 
-| Quality    |                                                       |
+|            | Quality Profiles                                      |
 | ---------- | ----------------------------------------------------- |
 | SonarCloud | https://sonarcloud.io/organizations/siakhooi/projects |
 | Qlty.sh    | https://qlty.sh/gh/siakhooi/projects                  |
 | Codacy     | https://app.codacy.com/gh/siakhooi                    |
 
-| Repositories/Artifacts |                                                      |
-| ---------------------- | ---------------------------------------------------- |
-| My APT Repo            | https://siakhooi.github.io/apt                       |
-| My RPMS Repo           | https://siakhooi.github.io/rpms                      |
-| My Helm Charts         | https://siakhooi.github.io/helm-charts               |
-| My CA                  | https://siakhooi.github.io/ca                        |
-| npmjs.com              | https://www.npmjs.com/~siakhooi                      |
-| hub.docker.com         | https://hub.docker.com/u/siakhooi                    |
-| pypi.org               | https://pypi.org/user/siakhooi/                      |
-| Artifacthub.io         | https://artifacthub.io/packages/search?repo=siakhooi |
+|                | Repositories/Artifacts                               |
+| -------------- | ---------------------------------------------------- |
+| My APT Repo    | https://siakhooi.github.io/apt                       |
+| My RPMS Repo   | https://siakhooi.github.io/rpms                      |
+| My Helm Charts | https://siakhooi.github.io/helm-charts               |
+| My CA          | https://siakhooi.github.io/ca                        |
+| npmjs.com      | https://www.npmjs.com/~siakhooi                      |
+| hub.docker.com | https://hub.docker.com/u/siakhooi                    |
+| pypi.org       | https://pypi.org/user/siakhooi/                      |
+| Artifacthub.io | https://artifacthub.io/packages/search?repo=siakhooi |
 
-| Codility Challenges             |                                                                  |
+|                                 | Codility Challenges                                              |
 | ------------------------------- | ---------------------------------------------------------------- |
 | Pi Code Challenge 2023          | (private)                                                        |
 | Year of the Rabbit 2023         | https://github.com/siakhooi/codility-year-of-the-rabbit-2023     |
@@ -107,12 +112,12 @@ Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/si
 | Strontium 2019                  | https://github.com/siakhooi/codility-strontium-2019              |
 | Rubidium 2018                   | https://github.com/siakhooi/codility-rubidium-2018               |
 
-| Pages        |                                                  |
+|              | Personal Pages                                   |
 | ------------ | ------------------------------------------------ |
 | Github Pages | [SiakHooi.GitHub.io](https://siakhooi.github.io) |
 | Gitlab Pages | [SiakHooi.GitLab.io](https://siakhooi.gitlab.io) |
 
-| Legacy Projects                       |                                                            |
+|                                       | Legacy Projects                                            |
 | ------------------------------------- | ---------------------------------------------------------- |
 | Github.io/Bukusaga                    | https://siakhooi.github.io/bukusaga                        |
 | G5 Application Framework (Java Swing) | https://siakhooi.github.io/java-g5-framework               |
