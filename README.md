@@ -49,10 +49,11 @@ Developer Utils: [bash-devutils](https://github.com/siakhooi/bash-devutils) [bas
 
 Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/siakhooi/bash-cerg)
 
-|                                                      | AI Projects                                   |
-| ---------------------------------------------------- | --------------------------------------------- |
-| [bitwise](https://siakhooi.github.io/model-bitwise/) | Bitwise XOR - NN's hello world again!         |
-| [iris](https://siakhooi.github.io/model-irs/)        | Iris - Machine Learning (supervised learning) |
+|                                                              | AI Projects                                   |
+| ------------------------------------------------------------ | --------------------------------------------- |
+| [xor](https://siakhooi.github.io/model-xor/)                 | XOR - NN's hello world again!                 |
+| [logic-gates](https://siakhooi.github.io/model-logic-gates/) | Logic Gates                                   |
+| [iris](https://siakhooi.github.io/model-irs/)                | Iris - Machine Learning (supervised learning) |
 
 |            | Scratch Projects                       |
 | ---------- | -------------------------------------- |
