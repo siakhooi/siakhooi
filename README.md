@@ -51,9 +51,9 @@ Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/si
 
 |                                                              | AI Projects                                   |
 | ------------------------------------------------------------ | --------------------------------------------- |
-| [xor](https://siakhooi.github.io/model-xor/)                 | XOR - NN's hello world again!                 |
-| [logic-gates](https://siakhooi.github.io/model-logic-gates/) | Logic Gates                                   |
-| [iris](https://siakhooi.github.io/model-irs/)                | Iris - Machine Learning (supervised learning) |
+| [xor](https://github.com/siakhooi/model-xor)                 | XOR - NN's hello world again!                 |
+| [logic-gates](https://github.com/siakhooi/model-logic-gates) | Logic Gates                                   |
+| [iris](https://github.com/siakhooi/model-irs)                | Iris - Machine Learning (supervised learning) |
 
 |            | Scratch Projects                       |
 | ---------- | -------------------------------------- |
