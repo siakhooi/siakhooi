@@ -8,11 +8,12 @@
 |____/|_|\__,_|_|\_\ |_| |_|\___/ \___/|_|
 ```
 
-|                                                    | Java/Groovy Projects                      |
-| -------------------------------------------------- | ----------------------------------------- |
-| [query](https://github.com/siakhooi/query)         | Microservice that query backend databases |
-| [semvery](https://github.com/siakhooi/semvery)     | CLI for semver utilities                  |
-| [path2json](https://github.com/siakhooi/path2json) | CLI print tree directory to json          |
+|                                                            | Java/Groovy Projects                      |
+| ---------------------------------------------------------- | ----------------------------------------- |
+| [query](https://github.com/siakhooi/query)                 | Microservice that query backend databases |
+| [semvery](https://github.com/siakhooi/semvery)             | CLI for semver utilities                  |
+| [path2json](https://github.com/siakhooi/path2json)         | CLI print tree directory to json          |
+| [jexl-executor](https://github.com/siakhooi/jexl-executor) | CLI jexl scripts executor                 |
 
 |                                                                              | Python Projects                                                   |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -55,9 +56,17 @@ Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/si
 | [logic-gates](https://github.com/siakhooi/model-logic-gates) | Logic Gates                                   |
 | [iris](https://github.com/siakhooi/model-irs)                | Iris - Machine Learning (supervised learning) |
 
-|            | Scratch Projects                       |
-| ---------- | -------------------------------------- |
-| carbon-war | https://siakhooi.github.io/carbon-war/ |
+|                                                      | Scratch Projects         | Pages                                  |
+| ---------------------------------------------------- | ------------------------ | -------------------------------------- |
+| [carbon-war](https://github.com/siakhooi/carbon-war) | Projectory Shooting Game | https://siakhooi.github.io/carbon-war/ |
+
+|                                                            | Repositories/Artifacts | Pages                                  |
+| ---------------------------------------------------------- | ---------------------- | -------------------------------------- |
+| [devcontainers](https://github.com/siakhooi/devcontainers) | My Devcontainers       |
+| [apt](https://github.com/siakhooi/apt)                     | My APT Repo            | https://siakhooi.github.io/apt         |
+| [rpms](https://github.com/siakhooi/rpms)                   | My RPMS Repo           | https://siakhooi.github.io/rpms        |
+| [helm-charts](https://github.com/siakhooi/helm-charts)     | My Helm Charts         | https://siakhooi.github.io/helm-charts |
+| [ca](https://github.com/siakhooi/ca)                       | My CA                  | https://siakhooi.github.io/ca          |
 
 |            | Quality Profiles                                      |
 | ---------- | ----------------------------------------------------- |
@@ -65,17 +74,12 @@ Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/si
 | Qlty.sh    | https://qlty.sh/gh/siakhooi/projects                  |
 | Codacy     | https://app.codacy.com/gh/siakhooi                    |
 
-|                  | Repositories/Artifacts                               |
-| ---------------- | ---------------------------------------------------- |
-| My Devcontainers | https://github.com/siakhooi/devcontainers            |
-| My APT Repo      | https://siakhooi.github.io/apt                       |
-| My RPMS Repo     | https://siakhooi.github.io/rpms                      |
-| My Helm Charts   | https://siakhooi.github.io/helm-charts               |
-| My CA            | https://siakhooi.github.io/ca                        |
-| npmjs.com        | https://www.npmjs.com/~siakhooi                      |
-| hub.docker.com   | https://hub.docker.com/u/siakhooi                    |
-| pypi.org         | https://pypi.org/user/siakhooi/                      |
-| Artifacthub.io   | https://artifacthub.io/packages/search?repo=siakhooi |
+|                | External Artifactory Profiles                        |
+| -------------- | ---------------------------------------------------- |
+| npmjs.com      | https://www.npmjs.com/~siakhooi                      |
+| hub.docker.com | https://hub.docker.com/u/siakhooi                    |
+| pypi.org       | https://pypi.org/user/siakhooi/                      |
+| Artifacthub.io | https://artifacthub.io/packages/search?repo=siakhooi |
 
 |                                 | Codility Challenges                                              |
 | ------------------------------- | ---------------------------------------------------------------- |
@@ -114,21 +118,21 @@ Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/si
 | Strontium 2019                  | https://github.com/siakhooi/codility-strontium-2019              |
 | Rubidium 2018                   | https://github.com/siakhooi/codility-rubidium-2018               |
 
-|              | Personal Pages                                   |
-| ------------ | ------------------------------------------------ |
-| Github Pages | [SiakHooi.GitHub.io](https://siakhooi.github.io) |
-| Gitlab Pages | [SiakHooi.GitLab.io](https://siakhooi.gitlab.io) |
+|                       | Personal Pages             |
+| --------------------- | -------------------------- |
+| Github Pages          | https://siakhooi.github.io |
+| Gitlab Pages (Legacy) | https://siakhooi.gitlab.io |
 
-|                                       | Legacy Projects                                            |
-| ------------------------------------- | ---------------------------------------------------------- |
-| Github.io/Bukusaga                    | https://siakhooi.github.io/bukusaga                        |
-| G5 Application Framework (Java Swing) | https://siakhooi.github.io/java-g5-framework               |
-| MyWise Framework (PHP)                | https://github.com/siakhooi/mywise                         |
-| Tionghua.Info (MyWise, PHP)           | https://github.com/siakhooi/mywise-tionghua                |
-| SCP-sync-to-local (nodejs)            | https://github.com/siakhooi/nodejs-scp-sync-to-local       |
-| URL-Shortener (expressjs)             | https://github.com/siakhooi/expressjs-url-shortener/       |
-| Tic-Tac-Toe (ReactJs)                 | https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe/   |
-| Clock Mouse Pointer (Javascript)      | https://siakhooi.github.io/javascript-clock-mouse-pointer/ |
+|                                                                                              | Legacy Projects                       | Pages                                                      |
+| -------------------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------------------- |
+| [bukusaga](https://github.com/siakhooi/bukusaga)                                             | 4 Classic Chinese Novels              | https://siakhooi.github.io/bukusaga                        |
+| [java-g5-framework](https://github.com/siakhooi/java-g5-framework)                           | G5 Application Framework (Java Swing) | https://siakhooi.github.io/java-g5-framework               |
+| [mywise](https://github.com/siakhooi/mywise)                                                 | MyWise Framework (PHP)                |
+| [mywise-tionghua](https://github.com/siakhooi/mywise-tionghua)                               | Tionghua.Info (MyWise, PHP)           |
+| [nodejs-scp-sync-to-local](https://github.com/siakhooi/nodejs-scp-sync-to-local)             | SCP-sync-to-local (nodejs)            |
+| [expressjs-url-shortener](https://github.com/siakhooi/expressjs-url-shortener)               | URL-Shortener (expressjs)             |
+| [reactjs-tutorial-tic-tac-toe](https://github.com/siakhooi/reactjs-tutorial-tic-tac-toe)     | Tic-Tac-Toe (ReactJs)                 | https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe/   |
+| [javascript-clock-mouse-pointer](https://github.com/siakhooi/javascript-clock-mouse-pointer) | Clock Mouse Pointer (Javascript)      | https://siakhooi.github.io/javascript-clock-mouse-pointer/ |
 
 [![Wise](https://img.shields.io/badge/Funding-Wise-33cb56.svg?logo=wise)](https://wise.com/pay/me/siakn3)
 [![Buy Me a Coffee](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg?logo=buymeacoffee)](https://www.buymeacoffee.com/siakhooi)
