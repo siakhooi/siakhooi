@@ -8,14 +8,14 @@
 |____/|_|\__,_|_|\_\ |_| |_|\___/ \___/|_|
 ```
 
-|                                                            | Java/Groovy Projects                      |
+| Java/Groovy                                                | Projects                                  |
 | ---------------------------------------------------------- | ----------------------------------------- |
 | [query](https://github.com/siakhooi/query)                 | Microservice that query backend databases |
 | [semvery](https://github.com/siakhooi/semvery)             | CLI for semver utilities                  |
 | [path2json](https://github.com/siakhooi/path2json)         | CLI print tree directory to json          |
 | [jexl-executor](https://github.com/siakhooi/jexl-executor) | CLI jexl scripts executor                 |
 
-|                                                                              | Python Projects                                                   |
+| Python                                                                       | Projects                                                          |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [htmligator](https://github.com/siakhooi/htmligator)                         | CLI generate wrapper html files to navigate folder contents       |
 | [terminalizer2asciinema](https://github.com/siakhooi/terminalizer2asciinema) | CLI convert terminalizer to asciinema format                      |
@@ -26,20 +26,25 @@
 
 Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mocker](https://github.com/siakhooi/kafka-mocker) [response-mocker](https://github.com/siakhooi/response-mocker)
 
-|                                                              | Go Projects                          |
+| Go                                                           | Projects                             |
 | ------------------------------------------------------------ | ------------------------------------ |
 | [picsum](https://github.com/siakhooi/picsum)                 | CLI client for https://picsum.photos |
-| [json2table](https://github.com/siakhooi/json2table)         | [Alpha] CLI                          |
-| [planning-poker](https://github.com/siakhooi/planning-poker) | [Alpha] web app                      |
+| [json2table](https://github.com/siakhooi/json2table)         | `[Alpha]` CLI                        |
+| [planning-poker](https://github.com/siakhooi/planning-poker) | `[Alpha]` web app                    |
 
-|                                                                                              | TypeScript/Firebase/NPM Projects               |
-| -------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| TypeScript/Firebase/NPM                                                                      | Projects                                       | Pages                                                     |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------- | --------------------------------------------------------- |
 | [firebase-webcounter-langkasuka](https://github.com/siakhooi/firebase-webcounter-langkasuka) | Serverless function fro Web counter (Firebase) |
-| [ts-number-to-chinese-words](https://github.com/siakhooi/ts-number-to-chinese-words)         | Library to Convert number to chinese words     |
+| [ts-number-to-chinese-words](https://github.com/siakhooi/ts-number-to-chinese-words)         | Library to Convert number to chinese words     | https://siakhooi.github.io/ts-number-to-chinese-words     |
 | [ts-box-drawing](https://github.com/siakhooi/ts-box-drawing)                                 | Library to Draw boxes in console               |
-| [siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io)                         | Github User Site                               |
+| [siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io)                         | Github User Site                               | https://siakhooi.github.io                                |
+| [links](https://github.com/siakhooi/links)                                                   | Links for Siakhooi.github.io                   | https://siakhooi.github.io/links                          |
+| [nodejs-scp-sync-to-local](https://github.com/siakhooi/nodejs-scp-sync-to-local)             | `[Legacy]` SCP-sync-to-local (JavaScript)      |
+| [reactjs-tutorial-tic-tac-toe](https://github.com/siakhooi/reactjs-tutorial-tic-tac-toe)     | `[Legacy]` Tic-Tac-Toe (ReactJs)               | https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe   |
+| [javascript-clock-mouse-pointer](https://github.com/siakhooi/javascript-clock-mouse-pointer) | `[Legacy]` Clock Mouse Pointer (Javascript)    | https://siakhooi.github.io/javascript-clock-mouse-pointer |
+| [expressjs-url-shortener](https://github.com/siakhooi/expressjs-url-shortener)               | `[Legacy]` URL-Shortener (expressjs)           |
 
-|                                                          | Bash Projects                                                    |
+| Bash                                                     | Projects                                                         |
 | -------------------------------------------------------- | ---------------------------------------------------------------- |
 | [shed](https://github.com/siakhooi/shed)                 | working with kubernetes clusters at ease                         |
 | [image-runner](https://github.com/siakhooi/image-runner) | run docker images with configured parameters                     |
@@ -50,13 +55,13 @@ Developer Utils: [bash-devutils](https://github.com/siakhooi/bash-devutils) [bas
 
 Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/siakhooi/bash-cerg)
 
-|                                                              | AI Projects                                   |
+| AI Models                                                    | Projects                                      |
 | ------------------------------------------------------------ | --------------------------------------------- |
 | [xor](https://github.com/siakhooi/model-xor)                 | XOR - NN's hello world again!                 |
 | [logic-gates](https://github.com/siakhooi/model-logic-gates) | Logic Gates                                   |
 | [iris](https://github.com/siakhooi/model-irs)                | Iris - Machine Learning (supervised learning) |
 
-|                                                      | Scratch Projects         | Pages                                  |
+| Scratch                                              | Projects                 | Pages                                  |
 | ---------------------------------------------------- | ------------------------ | -------------------------------------- |
 | [carbon-war](https://github.com/siakhooi/carbon-war) | Projectory Shooting Game | https://siakhooi.github.io/carbon-war/ |
 
@@ -118,21 +123,12 @@ Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/si
 | Strontium 2019                  | https://github.com/siakhooi/codility-strontium-2019              |
 | Rubidium 2018                   | https://github.com/siakhooi/codility-rubidium-2018               |
 
-|                       | Personal Pages             |
-| --------------------- | -------------------------- |
-| Github Pages          | https://siakhooi.github.io |
-| Gitlab Pages (Legacy) | https://siakhooi.gitlab.io |
-
-|                                                                                              | Legacy Projects                       | Pages                                                      |
-| -------------------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------------------- |
-| [bukusaga](https://github.com/siakhooi/bukusaga)                                             | 4 Classic Chinese Novels              | https://siakhooi.github.io/bukusaga                        |
-| [java-g5-framework](https://github.com/siakhooi/java-g5-framework)                           | G5 Application Framework (Java Swing) | https://siakhooi.github.io/java-g5-framework               |
-| [mywise](https://github.com/siakhooi/mywise)                                                 | MyWise Framework (PHP)                |
-| [mywise-tionghua](https://github.com/siakhooi/mywise-tionghua)                               | Tionghua.Info (MyWise, PHP)           |
-| [nodejs-scp-sync-to-local](https://github.com/siakhooi/nodejs-scp-sync-to-local)             | SCP-sync-to-local (nodejs)            |
-| [expressjs-url-shortener](https://github.com/siakhooi/expressjs-url-shortener)               | URL-Shortener (expressjs)             |
-| [reactjs-tutorial-tic-tac-toe](https://github.com/siakhooi/reactjs-tutorial-tic-tac-toe)     | Tic-Tac-Toe (ReactJs)                 | https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe/   |
-| [javascript-clock-mouse-pointer](https://github.com/siakhooi/javascript-clock-mouse-pointer) | Clock Mouse Pointer (Javascript)      | https://siakhooi.github.io/javascript-clock-mouse-pointer/ |
+|                                                                    | Legacy Projects                       | Pages                                        |
+| ------------------------------------------------------------------ | ------------------------------------- | -------------------------------------------- |
+| [bukusaga](https://github.com/siakhooi/bukusaga)                   | 4 Classic Chinese Novels              | https://siakhooi.github.io/bukusaga          |
+| [java-g5-framework](https://github.com/siakhooi/java-g5-framework) | G5 Application Framework (Java Swing) | https://siakhooi.github.io/java-g5-framework |
+| [mywise](https://github.com/siakhooi/mywise)                       | MyWise Framework (PHP)                |
+| [mywise-tionghua](https://github.com/siakhooi/mywise-tionghua)     | Tionghua.Info (MyWise, PHP)           |
 
 [![Wise](https://img.shields.io/badge/Funding-Wise-33cb56.svg?logo=wise)](https://wise.com/pay/me/siakn3)
 [![Buy Me a Coffee](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg?logo=buymeacoffee)](https://www.buymeacoffee.com/siakhooi)
