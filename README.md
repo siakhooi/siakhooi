@@ -61,6 +61,10 @@ Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/si
 | [logic-gates](https://github.com/siakhooi/model-logic-gates) | Logic Gates                                   |
 | [iris](https://github.com/siakhooi/model-iris)               | Iris - Machine Learning (supervised learning) |
 
+| Minizinc                                                       | Projects        |
+| -------------------------------------------------------------- | --------------- |
+| [sudoku-resolver](https://github.com/siakhooi/sudoku-resolver) | Sudoku Resolver |
+
 | Scratch                                              | Projects                 | Pages                                  |
 | ---------------------------------------------------- | ------------------------ | -------------------------------------- |
 | [carbon-war](https://github.com/siakhooi/carbon-war) | Projectory Shooting Game | https://siakhooi.github.io/carbon-war/ |
