@@ -32,17 +32,17 @@ Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mo
 | [json2table](https://github.com/siakhooi/json2table)         | `[Alpha]` CLI                        |
 | [planning-poker](https://github.com/siakhooi/planning-poker) | `[Alpha]` web app                    |
 
-| TypeScript/Firebase/NPM                                                                      | Projects                                       | Pages                                                     |
-| -------------------------------------------------------------------------------------------- | ---------------------------------------------- | --------------------------------------------------------- |
-| [firebase-webcounter-langkasuka](https://github.com/siakhooi/firebase-webcounter-langkasuka) | Serverless function fro Web counter (Firebase) |
-| [number-to-chinese-words](https://github.com/siakhooi/number-to-chinese-words)               | Convert number to chinese words (npm library)  | https://siakhooi.github.io/number-to-chinese-words        |
-| [box-drawing](https://github.com/siakhooi/box-drawing)                                       | Draw boxes in console (npm library)            |
-| [siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io)                         | Github User Site                               | https://siakhooi.github.io                                |
-| [links](https://github.com/siakhooi/links)                                                   | Links for Siakhooi.github.io                   | https://siakhooi.github.io/links                          |
-| [nodejs-scp-sync-to-local](https://github.com/siakhooi/nodejs-scp-sync-to-local)             | `[Legacy]` SCP-sync-to-local (JavaScript)      |
-| [reactjs-tutorial-tic-tac-toe](https://github.com/siakhooi/reactjs-tutorial-tic-tac-toe)     | `[Legacy]` Tic-Tac-Toe (ReactJs)               | https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe   |
-| [javascript-clock-mouse-pointer](https://github.com/siakhooi/javascript-clock-mouse-pointer) | `[Legacy]` Clock Mouse Pointer (Javascript)    | https://siakhooi.github.io/javascript-clock-mouse-pointer |
-| [expressjs-url-shortener](https://github.com/siakhooi/expressjs-url-shortener)               | `[Legacy]` URL-Shortener (expressjs)           |
+| TypeScript/Firebase/NPM                                                                      | Projects                                         | Pages                                                     |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------- |
+| [webcounter](https://github.com/siakhooi/webcounter)                                         | Langkasuka, a Serverless Web counter  (Firebase) |
+| [number-to-chinese-words](https://github.com/siakhooi/number-to-chinese-words)               | Convert number to chinese words (npm library)    | https://siakhooi.github.io/number-to-chinese-words        |
+| [box-drawing](https://github.com/siakhooi/box-drawing)                                       | Draw boxes in console (npm library)              |
+| [siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io)                         | Github User Site                                 | https://siakhooi.github.io                                |
+| [links](https://github.com/siakhooi/links)                                                   | Links for Siakhooi.github.io                     | https://siakhooi.github.io/links                          |
+| [nodejs-scp-sync-to-local](https://github.com/siakhooi/nodejs-scp-sync-to-local)             | `[Legacy]` SCP-sync-to-local (JavaScript)        |
+| [reactjs-tutorial-tic-tac-toe](https://github.com/siakhooi/reactjs-tutorial-tic-tac-toe)     | `[Legacy]` Tic-Tac-Toe (ReactJs)                 | https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe   |
+| [javascript-clock-mouse-pointer](https://github.com/siakhooi/javascript-clock-mouse-pointer) | `[Legacy]` Clock Mouse Pointer (Javascript)      | https://siakhooi.github.io/javascript-clock-mouse-pointer |
+| [expressjs-url-shortener](https://github.com/siakhooi/expressjs-url-shortener)               | `[Legacy]` URL-Shortener (expressjs)             |
 
 | Bash                                                     | Projects                                                         |
 | -------------------------------------------------------- | ---------------------------------------------------------------- |
