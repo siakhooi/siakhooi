@@ -8,12 +8,12 @@
 |____/|_|\__,_|_|\_\ |_| |_|\___/ \___/|_|
 ```
 
-| Java/Groovy                                                | Projects                                  |
-| ---------------------------------------------------------- | ----------------------------------------- |
-| [query](https://github.com/siakhooi/query)                 | Microservice that query backend databases |
-| [semvery](https://github.com/siakhooi/semvery)             | CLI for semver utilities                  |
-| [path2json](https://github.com/siakhooi/path2json)         | CLI print tree directory to json          |
-| [jexl-executor](https://github.com/siakhooi/jexl-executor) | CLI jexl scripts executor                 |
+| Java/Groovy                                                | Projects                                       |
+| ---------------------------------------------------------- | ---------------------------------------------- |
+| [query](https://github.com/siakhooi/query)                 | query various backend databases (microservice) |
+| [semvery](https://github.com/siakhooi/semvery)             | semver utilities (cli)                         |
+| [path2json](https://github.com/siakhooi/path2json)         | directory structure in json (cli)              |
+| [jexl-executor](https://github.com/siakhooi/jexl-executor) | jexl scripts executor (cli)                    |
 
 | Python                                                                       | Projects                                                          |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -35,8 +35,8 @@ Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mo
 | TypeScript/Firebase/NPM                                                                      | Projects                                       | Pages                                                     |
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------- | --------------------------------------------------------- |
 | [firebase-webcounter-langkasuka](https://github.com/siakhooi/firebase-webcounter-langkasuka) | Serverless function fro Web counter (Firebase) |
-| [ts-number-to-chinese-words](https://github.com/siakhooi/ts-number-to-chinese-words)         | Library to Convert number to chinese words     | https://siakhooi.github.io/ts-number-to-chinese-words     |
-| [ts-box-drawing](https://github.com/siakhooi/ts-box-drawing)                                 | Library to Draw boxes in console               |
+| [number-to-chinese-words](https://github.com/siakhooi/number-to-chinese-words)               | Convert number to chinese words (npm library)  | https://siakhooi.github.io/number-to-chinese-words        |
+| [box-drawing](https://github.com/siakhooi/box-drawing)                                       | Draw boxes in console (npm library)            |
 | [siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io)                         | Github User Site                               | https://siakhooi.github.io                                |
 | [links](https://github.com/siakhooi/links)                                                   | Links for Siakhooi.github.io                   | https://siakhooi.github.io/links                          |
 | [nodejs-scp-sync-to-local](https://github.com/siakhooi/nodejs-scp-sync-to-local)             | `[Legacy]` SCP-sync-to-local (JavaScript)      |
