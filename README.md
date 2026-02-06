@@ -10,27 +10,27 @@
 
 | Java/Groovy                                                | Projects                                       |
 | ---------------------------------------------------------- | ---------------------------------------------- |
-| [query](https://github.com/siakhooi/query)                 | query various backend databases (microservice) |
-| [semvery](https://github.com/siakhooi/semvery)             | semver utilities (cli)                         |
-| [path2json](https://github.com/siakhooi/path2json)         | directory structure in json (cli)              |
-| [jexl-executor](https://github.com/siakhooi/jexl-executor) | jexl scripts executor (cli)                    |
+| [query](https://github.com/siakhooi/query)                 | `microservice` query various backend databases |
+| [semvery](https://github.com/siakhooi/semvery)             | `cli` semver utilities                         |
+| [path2json](https://github.com/siakhooi/path2json)         | `cli` directory structure in json              |
+| [jexl-executor](https://github.com/siakhooi/jexl-executor) | `cli` jexl scripts executor                    |
 
 | Python                                                                       | Projects                                                          |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [htmligator](https://github.com/siakhooi/htmligator)                         | CLI generate wrapper html files to navigate folder contents       |
-| [terminalizer2asciinema](https://github.com/siakhooi/terminalizer2asciinema) | CLI convert terminalizer to asciinema format                      |
-| [download-files-by-map](https://github.com/siakhooi/download-files-by-map)   | CLI download files based on json map                              |
-| [configmap-reader](https://github.com/siakhooi/configmap-reader)             | Microservice to return content of configmap                       |
-| [kafka-republisher](https://github.com/siakhooi/kafka-republisher)           | Microserivce to Republish kafka message from one topic to another |
-| [bpmn-print](https://github.com/siakhooi/bpmn-print)                         | CLI to create pdf for bpmn files                                  |
+| [htmligator](https://github.com/siakhooi/htmligator)                         | `cli` generate wrapper html files to navigate folder contents     |
+| [terminalizer2asciinema](https://github.com/siakhooi/terminalizer2asciinema) | `cli` convert terminalizer to asciinema format                    |
+| [download-files-by-map](https://github.com/siakhooi/download-files-by-map)   | `cli` download files based on json map                            |
+| [configmap-reader](https://github.com/siakhooi/configmap-reader)             | `microservice` return content of configmap                        |
+| [kafka-republisher](https://github.com/siakhooi/kafka-republisher)           | `microserivce`  Republish kafka message from one topic to another |
+| [bpmn-print](https://github.com/siakhooi/bpmn-print)                         | `cli` create pdf for bpmn files                                   |
 
 Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mocker](https://github.com/siakhooi/kafka-mocker) [response-mocker](https://github.com/siakhooi/response-mocker)
 
-| Go                                                           | Projects                             |
-| ------------------------------------------------------------ | ------------------------------------ |
-| [picsum](https://github.com/siakhooi/picsum)                 | CLI client for https://picsum.photos |
-| [json2table](https://github.com/siakhooi/json2table)         | `[Alpha]` CLI                        |
-| [planning-poker](https://github.com/siakhooi/planning-poker) | `[Alpha]` web app                    |
+| Go                                                           | Projects                               |
+| ------------------------------------------------------------ | -------------------------------------- |
+| [picsum](https://github.com/siakhooi/picsum)                 | `cli` client for https://picsum.photos |
+| [json2table](https://github.com/siakhooi/json2table)         | `[Alpha]` `cli`                        |
+| [planning-poker](https://github.com/siakhooi/planning-poker) | `[Alpha]` web app                      |
 
 | TypeScript/Firebase/NPM                                                                      | Projects                                        | Pages                                                     |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------- |
@@ -59,7 +59,7 @@ Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/si
 | ------------------------------------------------------------ | --------------------------------------------- |
 | [xor](https://github.com/siakhooi/model-xor)                 | XOR - NN's hello world again!                 |
 | [logic-gates](https://github.com/siakhooi/model-logic-gates) | Logic Gates                                   |
-| [iris](https://github.com/siakhooi/model-iris)               | Iris - Machine Learning (supervised learning) |
+| [iris](https://github.com/siakhooi/model-iris)               | `[Alpha]` Iris - Machine Learning (supervised learning) |
 
 | Minizinc                                                       | Projects        |
 | -------------------------------------------------------------- | --------------- |
@@ -133,6 +133,11 @@ Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/si
 | [java-g5-framework](https://github.com/siakhooi/java-g5-framework) | G5 Application Framework (Java Swing) | https://siakhooi.github.io/java-g5-framework |
 | [mywise](https://github.com/siakhooi/mywise)                       | MyWise Framework (PHP)                |
 | [mywise-tionghua](https://github.com/siakhooi/mywise-tionghua)     | Tionghua.Info (MyWise, PHP)           |
+
+| Static                                                                     | Pages                                            |
+| -------------------------------------------------------------------------- | ------------------------------------------------ |
+| [heroes-of-jin-yong](https://github.com/siakhooi/heroes-of-jin-yong)       | https://siakhooi.github.io/heroes-of-jin-yong    |
+| [street-fighter-zero-2](https://github.com/siakhooi/street-fighter-zero-2) | https://siakhooi.github.io/street-fighter-zero-2 |
 
 [![Wise](https://img.shields.io/badge/Funding-Wise-33cb56.svg?logo=wise)](https://wise.com/pay/me/siakn3)
 [![Buy Me a Coffee](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg?logo=buymeacoffee)](https://www.buymeacoffee.com/siakhooi)
