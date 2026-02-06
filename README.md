@@ -32,17 +32,17 @@ Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mo
 | [json2table](https://github.com/siakhooi/json2table)         | `[Alpha]` CLI                        |
 | [planning-poker](https://github.com/siakhooi/planning-poker) | `[Alpha]` web app                    |
 
-| TypeScript/Firebase/NPM                                                                      | Projects                                         | Pages                                                     |
-| -------------------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------- |
-| [webcounter](https://github.com/siakhooi/webcounter)                                         | Langkasuka, a Serverless Web counter  (Firebase) |
-| [number-to-chinese-words](https://github.com/siakhooi/number-to-chinese-words)               | Convert number to chinese words (npm library)    | https://siakhooi.github.io/number-to-chinese-words        |
-| [box-drawing](https://github.com/siakhooi/box-drawing)                                       | Draw boxes in console (npm library)              |
-| [siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io)                         | Github User Site                                 | https://siakhooi.github.io                                |
-| [links](https://github.com/siakhooi/links)                                                   | Links for Siakhooi.github.io                     | https://siakhooi.github.io/links                          |
-| [nodejs-scp-sync-to-local](https://github.com/siakhooi/nodejs-scp-sync-to-local)             | `[Legacy]` SCP-sync-to-local (JavaScript)        |
-| [reactjs-tutorial-tic-tac-toe](https://github.com/siakhooi/reactjs-tutorial-tic-tac-toe)     | `[Legacy]` Tic-Tac-Toe (ReactJs)                 | https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe   |
-| [javascript-clock-mouse-pointer](https://github.com/siakhooi/javascript-clock-mouse-pointer) | `[Legacy]` Clock Mouse Pointer (Javascript)      | https://siakhooi.github.io/javascript-clock-mouse-pointer |
-| [expressjs-url-shortener](https://github.com/siakhooi/expressjs-url-shortener)               | `[Legacy]` URL-Shortener (expressjs)             |
+| TypeScript/Firebase/NPM                                                                      | Projects                                        | Pages                                                     |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------- |
+| [webcounter](https://github.com/siakhooi/webcounter)                                         | Langkasuka, a Serverless Web counter (Firebase) |
+| [number-to-chinese-words](https://github.com/siakhooi/number-to-chinese-words)               | Convert number to chinese words (npm library)   | https://siakhooi.github.io/number-to-chinese-words        |
+| [box-drawing](https://github.com/siakhooi/box-drawing)                                       | Draw boxes in console (npm library)             |
+| [siakhooi.github.io](https://github.com/siakhooi/siakhooi.github.io)                         | Github User Site                                | https://siakhooi.github.io                                |
+| [links](https://github.com/siakhooi/links)                                                   | Links for Siakhooi.github.io                    | https://siakhooi.github.io/links                          |
+| [nodejs-scp-sync-to-local](https://github.com/siakhooi/nodejs-scp-sync-to-local)             | `[Legacy]` SCP-sync-to-local (JavaScript)       |
+| [reactjs-tutorial-tic-tac-toe](https://github.com/siakhooi/reactjs-tutorial-tic-tac-toe)     | `[Legacy]` Tic-Tac-Toe (ReactJs)                | https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe   |
+| [javascript-clock-mouse-pointer](https://github.com/siakhooi/javascript-clock-mouse-pointer) | `[Legacy]` Clock Mouse Pointer (Javascript)     | https://siakhooi.github.io/javascript-clock-mouse-pointer |
+| [expressjs-url-shortener](https://github.com/siakhooi/expressjs-url-shortener)               | `[Legacy]` URL-Shortener (expressjs)            |
 
 | Bash                                                     | Projects                                                         |
 | -------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -90,42 +90,42 @@ Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/si
 | pypi.org       | https://pypi.org/user/siakhooi/                      |
 | Artifacthub.io | https://artifacthub.io/packages/search?repo=siakhooi |
 
-|                                 | Codility Challenges                                              |
-| ------------------------------- | ---------------------------------------------------------------- |
-| Pi Code Challenge 2023          | (private)                                                        |
-| Year of the Rabbit 2023         | https://github.com/siakhooi/codility-year-of-the-rabbit-2023     |
-| Carol of the Code 2022          | https://github.com/siakhooi/codility-carol-of-the-code-2022      |
-| Game of Codes 2022              | https://github.com/siakhooi/codility-game-of-codes-2022          |
-| National Coding Week 2022       | https://github.com/siakhooi/codility-national-coding-week-2022   |
-| Jurassic Code 2022              | https://github.com/siakhooi/codility-jurassic-code-2022          |
-| Fury Road 2022                  | https://github.com/siakhooi/codility-fury-road-2022              |
-| Bug Wars: The Last Hope 2022    | https://github.com/siakhooi/codility-bug-wars2022                |
-| Muad'Dib's 2022                 | https://github.com/siakhooi/codility-muaddib-2022                |
-| Year of the Tiger 2022          | https://github.com/siakhooi/codility-year-of-the-tiger-2022      |
-| Pair a Coder 2022               | https://github.com/siakhooi/codility-pairacoder-2022             |
-| Code Alone 2021                 | https://github.com/siakhooi/codility-codealone-2021              |
-| Gamers 2021                     | https://github.com/siakhooi/codility-gamers-2021                 |
-| Spooktober 2021                 | https://github.com/siakhooi/codility-spooktober-2021             |
-| National Coding Week 2021       | https://github.com/siakhooi/codility-national-coding-week-2021   |
-| Coder of Rivia 2021             | https://github.com/siakhooi/codility-coder-of-rivia-2021         |
-| Fast & Curious 2021             | https://github.com/siakhooi/codility-fast-and-curious-2021       |
-| The Fellowship of the Code 2021 | https://github.com/siakhooi/codility-fellowship-of-the-code-2021 |
-| May the 4th 2021                | https://github.com/siakhooi/codility-may-the-4th-2021            |
-| The Great Code Off 2021         | https://github.com/siakhooi/codility-great-code-off-2021         |
-| The Doge 2021                   | https://github.com/siakhooi/codility-doge-2021                   |
-| The Matrix 2021                 | https://github.com/siakhooi/codility-matrix-2021                 |
-| The OLX Group 2020              | https://github.com/siakhooi/codility-olx-group-2020              |
-| Silver 2020                     | https://github.com/siakhooi/codility-silver-2020                 |
-| Palladium 2020                  | https://github.com/siakhooi/codility-palladium-2020              |
-| Rhodium 2019                    | https://github.com/siakhooi/codility-rhodium-2019                |
-| Ruthenium 2019                  | https://github.com/siakhooi/codility-ruthenium-2019              |
-| Technetium 2019                 | https://github.com/siakhooi/codility-technetium-2019             |
-| Molybdenum 2019                 | https://github.com/siakhooi/codility-molybdenum-2019             |
-| Niobium 2019                    | https://github.com/siakhooi/codility-niobium-2019                |
-| Zirconium 2019                  | https://github.com/siakhooi/codility-zirconium-2019              |
-| Yttrium 2019                    | https://github.com/siakhooi/codility-yttrium-2019                |
-| Strontium 2019                  | https://github.com/siakhooi/codility-strontium-2019              |
-| Rubidium 2018                   | https://github.com/siakhooi/codility-rubidium-2018               |
+|                                                                                                          | Codility Challenges             |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| (private)                                                                                                | Pi Code Challenge 2023          |
+| [codility-year-of-the-rabbit-2023](https://github.com/siakhooi/codility-year-of-the-rabbit-2023)         | Year of the Rabbit 2023         |
+| [codility-carol-of-the-code-2022](https://github.com/siakhooi/codility-carol-of-the-code-2022)           | Carol of the Code 2022          |
+| [codility-game-of-codes-2022](https://github.com/siakhooi/codility-game-of-codes-2022)                   | Game of Codes 2022              |
+| [codility-national-coding-week-2022](https://github.com/siakhooi/codility-national-coding-week-2022)     | National Coding Week 2022       |
+| [codility-jurassic-code-2022](https://github.com/siakhooi/codility-jurassic-code-2022)                   | Jurassic Code 2022              |
+| [codility-fury-road-2022](https://github.com/siakhooi/codility-fury-road-2022)                           | Fury Road 2022                  |
+| [codility-bug-wars2022](https://github.com/siakhooi/codility-bug-wars2022)                               | Bug Wars: The Last Hope 2022    |
+| [codility-muaddib-2022](https://github.com/siakhooi/codility-muaddib-2022)                               | Muad'Dib's 2022                 |
+| [codility-year-of-the-tiger-2022](https://github.com/siakhooi/codility-year-of-the-tiger-2022)           | Year of the Tiger 2022          |
+| [codility-pairacoder-2022](https://github.com/siakhooi/codility-pairacoder-2022)                         | Pair a Coder 2022               |
+| [codility-codealone-2021](https://github.com/siakhooi/codility-codealone-2021)                           | Code Alone 2021                 |
+| [codility-gamers-2021](https://github.com/siakhooi/codility-gamers-2021)                                 | Gamers 2021                     |
+| [codility-spooktober-2021](https://github.com/siakhooi/codility-spooktober-2021)                         | Spooktober 2021                 |
+| [codility-national-coding-week-2021](https://github.com/siakhooi/codility-national-coding-week-2021)     | National Coding Week 2021       |
+| [codility-coder-of-rivia-2021](https://github.com/siakhooi/codility-coder-of-rivia-2021)                 | Coder of Rivia 2021             |
+| [codility-fast-and-curious-2021](https://github.com/siakhooi/codility-fast-and-curious-2021)             | Fast & Curious 2021             |
+| [codility-fellowship-of-the-code-2021](https://github.com/siakhooi/codility-fellowship-of-the-code-2021) | The Fellowship of the Code 2021 |
+| [codility-may-the-4th-2021](https://github.com/siakhooi/codility-may-the-4th-2021)                       | May the 4th 2021                |
+| [codility-great-code-off-2021](https://github.com/siakhooi/codility-great-code-off-2021)                 | The Great Code Off 2021         |
+| [codility-doge-2021](https://github.com/siakhooi/codility-doge-2021)                                     | The Doge 2021                   |
+| [codility-matrix-2021](https://github.com/siakhooi/codility-matrix-2021)                                 | The Matrix 2021                 |
+| [codility-olx-group-2020](https://github.com/siakhooi/codility-olx-group-2020)                           | The OLX Group 2020              |
+| [codility-silver-2020](https://github.com/siakhooi/codility-silver-2020)                                 | Silver 2020                     |
+| [codility-palladium-2020](https://github.com/siakhooi/codility-palladium-2020)                           | Palladium 2020                  |
+| [codility-rhodium-2019](https://github.com/siakhooi/codility-rhodium-2019)                               | Rhodium 2019                    |
+| [codility-ruthenium-2019](https://github.com/siakhooi/codility-ruthenium-2019)                           | Ruthenium 2019                  |
+| [codility-technetium-2019](https://github.com/siakhooi/codility-technetium-2019)                         | Technetium 2019                 |
+| [codility-molybdenum-2019](https://github.com/siakhooi/codility-molybdenum-2019)                         | Molybdenum 2019                 |
+| [codility-niobium-2019](https://github.com/siakhooi/codility-niobium-2019)                               | Niobium 2019                    |
+| [codility-zirconium-2019](https://github.com/siakhooi/codility-zirconium-2019)                           | Zirconium 2019                  |
+| [codility-yttrium-2019](https://github.com/siakhooi/codility-yttrium-2019)                               | Yttrium 2019                    |
+| [codility-strontium-2019](https://github.com/siakhooi/codility-strontium-2019)                           | Strontium 2019                  |
+| [codility-rubidium-2018](https://github.com/siakhooi/codility-rubidium-2018)                             | Rubidium 2018                   |
 
 |                                                                    | Legacy Projects                       | Pages                                        |
 | ------------------------------------------------------------------ | ------------------------------------- | -------------------------------------------- |
