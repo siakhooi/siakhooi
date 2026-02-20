@@ -29,7 +29,7 @@ Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mo
 | Go                                                           | Projects                               |
 | ------------------------------------------------------------ | -------------------------------------- |
 | [picsum](https://github.com/siakhooi/picsum)                 | `cli` client for https://picsum.photos |
-| [json2table](https://github.com/siakhooi/json2table)         | `[Alpha]` `cli`                        |
+| [json2table](https://github.com/siakhooi/json2table)         | `[Beta]` `cli` print jsondata as table |
 | [planning-poker](https://github.com/siakhooi/planning-poker) | `[Alpha]` web app                      |
 
 | TypeScript/Firebase/NPM                                                                      | Projects                                        | Pages                                                     |
