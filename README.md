@@ -24,13 +24,14 @@
 | [kafka-republisher](https://github.com/siakhooi/kafka-republisher)           | `microserivce`  Republish kafka message from one topic to another |
 | [bpmn-print](https://github.com/siakhooi/bpmn-print)                         | `cli` create pdf for bpmn files                                   |
 
-Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mocker](https://github.com/siakhooi/kafka-mocker) [response-mocker](https://github.com/siakhooi/response-mocker)
+Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mocker](https://github.com/siakhooi/kafka-mocker)
 
 | Go                                                           | Projects                               |
 | ------------------------------------------------------------ | -------------------------------------- |
 | [picsum](https://github.com/siakhooi/picsum)                 | `cli` client for https://picsum.photos |
-| [json2table](https://github.com/siakhooi/json2table)         | `[Beta]` `cli` print jsondata as table |
-| [planning-poker](https://github.com/siakhooi/planning-poker) | `[Alpha]` web app                      |
+| [json2table](https://github.com/siakhooi/json2table)         | `cli` print jsondata as table          |
+
+Alphas: [planning-poker](https://github.com/siakhooi/planning-poker)
 
 | TypeScript/Firebase/NPM                                                                      | Projects                                        | Pages                                                     |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------- |
@@ -140,6 +141,4 @@ Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/si
 | [street-fighter-zero-2](https://github.com/siakhooi/street-fighter-zero-2) | https://siakhooi.github.io/street-fighter-zero-2 |
 
 [![Wise](https://img.shields.io/badge/Funding-Wise-33cb56.svg?logo=wise)](https://wise.com/pay/me/siakn3)
-[![Buy Me a Coffee](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg?logo=buymeacoffee)](https://www.buymeacoffee.com/siakhooi)
-[![Ko-Fi](https://img.shields.io/badge/Funding-Ko%20Fi-33cb56.svg?logo=kofi)](https://ko-fi.com/siakhooi)
 ![visitors](https://hit-tztugwlsja-uc.a.run.app/?outputtype=badge&counter=ghmd-siakhooi)
