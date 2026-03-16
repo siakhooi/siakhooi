@@ -26,10 +26,10 @@
 
 Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mocker](https://github.com/siakhooi/kafka-mocker)
 
-| Go                                                           | Projects                               |
-| ------------------------------------------------------------ | -------------------------------------- |
-| [picsum](https://github.com/siakhooi/picsum)                 | `cli` client for https://picsum.photos |
-| [json2table](https://github.com/siakhooi/json2table)         | `cli` print jsondata as table          |
+| Go                                                   | Projects                               |
+| ---------------------------------------------------- | -------------------------------------- |
+| [picsum](https://github.com/siakhooi/picsum)         | `cli` client for https://picsum.photos |
+| [json2table](https://github.com/siakhooi/json2table) | `cli` print jsondata as table          |
 
 Alphas: [planning-poker](https://github.com/siakhooi/planning-poker)
 
@@ -56,15 +56,19 @@ Developer Utils: [bash-devutils](https://github.com/siakhooi/bash-devutils) [bas
 
 Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/siakhooi/bash-cerg)
 
-| AI Models                                                    | Projects                                      |
-| ------------------------------------------------------------ | --------------------------------------------- |
-| [xor](https://github.com/siakhooi/model-xor)                 | XOR - NN's hello world again!                 |
-| [logic-gates](https://github.com/siakhooi/model-logic-gates) | Logic Gates                                   |
+| AI Models                                                    | Projects                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------- |
+| [xor](https://github.com/siakhooi/model-xor)                 | XOR - NN's hello world again!                           |
+| [logic-gates](https://github.com/siakhooi/model-logic-gates) | Logic Gates                                             |
 | [iris](https://github.com/siakhooi/model-iris)               | `[Alpha]` Iris - Machine Learning (supervised learning) |
 
 | Minizinc                                                       | Projects        |
 | -------------------------------------------------------------- | --------------- |
 | [sudoku-resolver](https://github.com/siakhooi/sudoku-resolver) | Sudoku Resolver |
+
+| Latex                                            | Projects     | Pages                               |
+| ------------------------------------------------ | ------------ | ----------------------------------- |
+| [buddhism](https://github.com/siakhooi/buddhism) | Buddhism PDF | https://siakhooi.github.io/buddhism |
 
 | Scratch                                              | Projects                 | Pages                                  |
 | ---------------------------------------------------- | ------------------------ | -------------------------------------- |
