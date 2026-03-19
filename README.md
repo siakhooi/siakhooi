@@ -31,8 +31,6 @@ Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mo
 | [picsum](https://github.com/siakhooi/picsum)         | `cli` client for https://picsum.photos |
 | [json2table](https://github.com/siakhooi/json2table) | `cli` print jsondata as table          |
 
-Alphas: [planning-poker](https://github.com/siakhooi/planning-poker)
-
 | TypeScript/Firebase/NPM                                                                      | Projects                                        | Pages                                                     |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------- |
 | [webcounter](https://github.com/siakhooi/webcounter)                                         | Langkasuka, a Serverless Web counter (Firebase) |
@@ -53,8 +51,6 @@ Alphas: [planning-poker](https://github.com/siakhooi/planning-poker)
 | [ore](https://github.com/siakhooi/ore)                   | automatically download,distribute artifacts from various sources |
 
 Developer Utils: [bash-devutils](https://github.com/siakhooi/bash-devutils) [bash-textutils](https://github.com/siakhooi/bash-textutils) [bash-fileutils](https://github.com/siakhooi/bash-fileutils) [bash-devutils-date-formats](https://github.com/siakhooi/bash-devutils-date-formats) [bash-devutils-echo-colors](https://github.com/siakhooi/bash-devutils-echo-colors) [buildo](https://github.com/siakhooi/buildo) [bash-devy](https://github.com/siakhooi/bash-devy)
-
-Alphas: [ele](https://github.com/siakhooi/ele) [bash-cerg](https://github.com/siakhooi/bash-cerg)
 
 | AI Models                                                    | Projects                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------- |
