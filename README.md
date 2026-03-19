@@ -24,8 +24,6 @@
 | [kafka-republisher](https://github.com/siakhooi/kafka-republisher)           | `microserivce`  Republish kafka message from one topic to another |
 | [bpmn-print](https://github.com/siakhooi/bpmn-print)                         | `cli` create pdf for bpmn files                                   |
 
-Alphas: [kafka-collector](https://github.com/siakhooi/kafka-collector) [kafka-mocker](https://github.com/siakhooi/kafka-mocker)
-
 | Go                                                   | Projects                               |
 | ---------------------------------------------------- | -------------------------------------- |
 | [picsum](https://github.com/siakhooi/picsum)         | `cli` client for https://picsum.photos |
