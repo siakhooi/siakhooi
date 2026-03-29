@@ -17,13 +17,13 @@
 
 | Python                                                                       | Projects                                                          |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [download-files-by-map](https://github.com/siakhooi/download-files-by-map)   | `cli` download files based on json map                            |
+| [kafka-republisher](https://github.com/siakhooi/kafka-republisher)           | `microserivce`  Republish kafka message from one topic to another |
+| [kafka-collector](https://github.com/siakhooi/kafka-collector)               | `cli/microservice`  collect kafka messages from multiple topics   |
 | [htmligator](https://github.com/siakhooi/htmligator)                         | `cli` generate wrapper html files to navigate folder contents     |
 | [terminalizer2asciinema](https://github.com/siakhooi/terminalizer2asciinema) | `cli` convert terminalizer to asciinema format                    |
-| [download-files-by-map](https://github.com/siakhooi/download-files-by-map)   | `cli` download files based on json map                            |
 | [configmap-reader](https://github.com/siakhooi/configmap-reader)             | `microservice` return content of configmap                        |
-| [kafka-republisher](https://github.com/siakhooi/kafka-republisher)           | `microserivce`  Republish kafka message from one topic to another |
 | [bpmn-print](https://github.com/siakhooi/bpmn-print)                         | `cli` create pdf for bpmn files                                   |
-| [kafka-collector](https://github.com/siakhooi/kafka-collector)               | `cli/microservice`  collect kafka messages from multiple topics   |
 
 | Go                                                   | Projects                               |
 | ---------------------------------------------------- | -------------------------------------- |
