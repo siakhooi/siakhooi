@@ -23,6 +23,7 @@
 | [configmap-reader](https://github.com/siakhooi/configmap-reader)             | `microservice` return content of configmap                        |
 | [kafka-republisher](https://github.com/siakhooi/kafka-republisher)           | `microserivce`  Republish kafka message from one topic to another |
 | [bpmn-print](https://github.com/siakhooi/bpmn-print)                         | `cli` create pdf for bpmn files                                   |
+| [kafka-collector](https://github.com/siakhooi/kafka-collector)               | `cli/microservice`  collect kafka messages from multiple topics   |
 
 | Go                                                   | Projects                               |
 | ---------------------------------------------------- | -------------------------------------- |
