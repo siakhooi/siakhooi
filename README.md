@@ -95,7 +95,7 @@ Developer Utils: [bash-devutils](https://github.com/siakhooi/bash-devutils) [bas
 
 |                                                                                                          | Codility Challenges             |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| (private)                                                                                                | Pi Code Challenge 2023          |
+| [codility-pi-challenge-2023](https://github.com/siakhooi/codility-pi-challenge-2023)                     | Pi Code Challenge 2023          |
 | [codility-year-of-the-rabbit-2023](https://github.com/siakhooi/codility-year-of-the-rabbit-2023)         | Year of the Rabbit 2023         |
 | [codility-carol-of-the-code-2022](https://github.com/siakhooi/codility-carol-of-the-code-2022)           | Carol of the Code 2022          |
 | [codility-game-of-codes-2022](https://github.com/siakhooi/codility-game-of-codes-2022)                   | Game of Codes 2022              |
