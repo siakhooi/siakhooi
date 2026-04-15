@@ -47,7 +47,7 @@
 | [image-sitter](https://github.com/siakhooi/image-sitter) | [![Release](https://img.shields.io/github/v/release/siakhooi/image-sitter?label=)](https://github.com/siakhooi/image-sitter/releases/latest) | manage local docker images                                       |
 | [ore](https://github.com/siakhooi/ore)                   | [![Release](https://img.shields.io/github/v/release/siakhooi/ore?label=)](https://github.com/siakhooi/ore/releases/latest)                   | automatically download,distribute artifacts from various sources |
 | [buildo](https://github.com/siakhooi/buildo)             | [![Release](https://img.shields.io/github/v/release/siakhooi/buildo?label=)](https://github.com/siakhooi/buildo/releases/latest)             | power toys for builder                                           |
-| [bash-devy](https://github.com/siakhooi/bash-devy)       | [![Release](https://img.shields.io/github/v/release/siakhooi/bash-devy?label=)](https://github.com/siakhooi/bash-devy/releases/latest)       | dev scripts for devcontainers/wsl                                |
+| [devy](https://github.com/siakhooi/devy)                 | [![Release](https://img.shields.io/github/v/release/siakhooi/devy?label=)](https://github.com/siakhooi/devy/releases/latest)                 | dev scripts for devcontainers/wsl                                |
 
 Developer Utils: [bash-devutils](https://github.com/siakhooi/bash-devutils) [bash-textutils](https://github.com/siakhooi/bash-textutils) [bash-fileutils](https://github.com/siakhooi/bash-fileutils) [bash-devutils-date-formats](https://github.com/siakhooi/bash-devutils-date-formats) [bash-devutils-echo-colors](https://github.com/siakhooi/bash-devutils-echo-colors)
 
