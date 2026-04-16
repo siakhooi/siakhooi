@@ -51,11 +51,11 @@
 
 Developer Utils: [bash-devutils](https://github.com/siakhooi/bash-devutils) [bash-textutils](https://github.com/siakhooi/bash-textutils) [bash-fileutils](https://github.com/siakhooi/bash-fileutils) [bash-devutils-date-formats](https://github.com/siakhooi/bash-devutils-date-formats) [bash-devutils-echo-colors](https://github.com/siakhooi/bash-devutils-echo-colors)
 
-| AI Models                                                    | Projects                                                |
-| ------------------------------------------------------------ | ------------------------------------------------------- |
-| [xor](https://github.com/siakhooi/model-xor)                 | XOR - NN's hello world again!                           |
-| [logic-gates](https://github.com/siakhooi/model-logic-gates) | Logic Gates                                             |
-| [iris](https://github.com/siakhooi/model-iris)               | `[Alpha]` Iris - Machine Learning (supervised learning) |
+| AI Models                                                    |                            |
+| ------------------------------------------------------------ | -------------------------- |
+| [xor](https://github.com/siakhooi/model-xor)                 | Non-linearity              |
+| [logic-gates](https://github.com/siakhooi/model-logic-gates) | Non-linearity              |
+| [iris](https://github.com/siakhooi/model-iris)               | Classical Machine Learning |
 
 | Minizinc                                                       | Projects        |
 | -------------------------------------------------------------- | --------------- |
