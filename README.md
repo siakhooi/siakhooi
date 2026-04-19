@@ -53,9 +53,9 @@ Developer Utils: [bash-devutils](https://github.com/siakhooi/bash-devutils) [bas
 
 | AI Models                                                    |                            |
 | ------------------------------------------------------------ | -------------------------- |
-| [xor](https://github.com/siakhooi/model-xor)                 | Non-linearity              |
-| [logic-gates](https://github.com/siakhooi/model-logic-gates) | Non-linearity              |
 | [iris](https://github.com/siakhooi/model-iris)               | Classical Machine Learning |
+| [logic-gates](https://github.com/siakhooi/model-logic-gates) | Non-linearity              |
+| [xor](https://github.com/siakhooi/model-xor)                 | Non-linearity              |
 
 | Minizinc                                                       | Projects        |
 | -------------------------------------------------------------- | --------------- |
