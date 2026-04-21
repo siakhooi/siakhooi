@@ -53,7 +53,7 @@ Developer Utils: [bash-devutils](https://github.com/siakhooi/bash-devutils) [bas
 
 | Github Action                                                                |                             |
 | ---------------------------------------------------------------------------- | --------------------------- |
-| [publish-to-repo-action](https://github.com/siakhooi/publish-to-repo-action) | publish files to other repo |
+| [![Release](https://img.shields.io/github/v/release/siakhooi/publish-to-repo-action?label=)](https://github.com/siakhooi/publish-to-repo-action/releases/latest) [publish-to-repo-action](https://github.com/siakhooi/publish-to-repo-action) | publish files to other repo |
 
 | AI Models                                                    |                            |
 | ------------------------------------------------------------ | -------------------------- |
