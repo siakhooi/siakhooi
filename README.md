@@ -8,10 +8,10 @@
 |____/|_|\__,_|_|\_\ |_| |_|\___/ \___/|_|
 ```
 
-| Go                                                   |                                                                                                                                          |                                        |
-| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| [json2table](https://github.com/siakhooi/json2table) | [![Release](https://img.shields.io/github/v/release/siakhooi/json2table?label=)](https://github.com/siakhooi/json2table/releases/latest) | `cli` print jsondata as table          |
-| [picsum](https://github.com/siakhooi/picsum)         | [![Release](https://img.shields.io/github/v/release/siakhooi/picsum?label=)](https://github.com/siakhooi/picsum/releases/latest)         | `cli` client for https://picsum.photos |
+| Go                                                                                                                                                                                            |                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| [![Release](https://img.shields.io/github/v/release/siakhooi/json2table?label=)](https://github.com/siakhooi/json2table/releases/latest) [json2table](https://github.com/siakhooi/json2table) | `cli` print jsondata as table          |
+| [![Release](https://img.shields.io/github/v/release/siakhooi/picsum?label=)](https://github.com/siakhooi/picsum/releases/latest)         [picsum](https://github.com/siakhooi/picsum)         | `cli` client for https://picsum.photos |
 
 | Java/Groovy                                                |                                                                                                                                                |                                                |
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
@@ -51,8 +51,8 @@
 
 Developer Utils: [bash-devutils](https://github.com/siakhooi/bash-devutils) [bash-textutils](https://github.com/siakhooi/bash-textutils) [bash-fileutils](https://github.com/siakhooi/bash-fileutils) [bash-devutils-date-formats](https://github.com/siakhooi/bash-devutils-date-formats) [bash-devutils-echo-colors](https://github.com/siakhooi/bash-devutils-echo-colors)
 
-| Github Action                                                                |                             |
-| ---------------------------------------------------------------------------- | --------------------------- |
+| Github Action                                                                                                                                                                                                                                 |                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 | [![Release](https://img.shields.io/github/v/release/siakhooi/publish-to-repo-action?label=)](https://github.com/siakhooi/publish-to-repo-action/releases/latest) [publish-to-repo-action](https://github.com/siakhooi/publish-to-repo-action) | publish files to other repo |
 
 | AI Models                                                    |                            |
