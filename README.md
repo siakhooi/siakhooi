@@ -50,7 +50,7 @@
 | [buildo](https://github.com/siakhooi/buildo)             | [![Release](https://img.shields.io/github/v/release/siakhooi/buildo?label=)](https://github.com/siakhooi/buildo/releases/latest)             | power toys for builder                                           |
 | [devy](https://github.com/siakhooi/devy)                 | [![Release](https://img.shields.io/github/v/release/siakhooi/devy?label=)](https://github.com/siakhooi/devy/releases/latest)                 | dev scripts for devcontainers/wsl                                |
 
-Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](https://github.com/siakhooi/textutils) [**fileutils**](https://github.com/siakhooi/**fileutils**) [date-formats](https://github.com/siakhooi/date-formats) [echo-colors](https://github.com/siakhooi/echo-colors)
+Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](https://github.com/siakhooi/textutils) [fileutils](https://github.com/siakhooi/fileutils) [date-formats](https://github.com/siakhooi/date-formats) [echo-colors](https://github.com/siakhooi/echo-colors)
 
 | Github Action                                                                |                                                                                                                                                                  |                             |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
