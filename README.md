@@ -56,6 +56,10 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 | [publish-to-repo-action](https://github.com/siakhooi/publish-to-repo-action) | [![Release](https://img.shields.io/github/v/release/siakhooi/publish-to-repo-action?label=)](https://github.com/siakhooi/publish-to-repo-action/releases/latest) | publish files to other repo |
 
+| Docker Image                                   |                                                                                                                                    |                              |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [console](https://github.com/siakhooi/console) | [![Release](https://img.shields.io/github/v/release/siakhooi/console?label=)](https://github.com/siakhooi/console/releases/latest) | troubleshoot docker services |
+
 | AI Models                                                    |                            |
 | ------------------------------------------------------------ | -------------------------- |
 | [iris](https://github.com/siakhooi/model-iris)               | Classical Machine Learning |
