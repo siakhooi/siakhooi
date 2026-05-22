@@ -52,13 +52,12 @@
 
 Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](https://github.com/siakhooi/textutils) [fileutils](https://github.com/siakhooi/fileutils) [date-formats](https://github.com/siakhooi/date-formats) [echo-colors](https://github.com/siakhooi/echo-colors)
 
-| Github Action                                                                |                                                                                                                                                                  |                             |
-| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [publish-to-repo-action](https://github.com/siakhooi/publish-to-repo-action) | [![Release](https://img.shields.io/github/v/release/siakhooi/publish-to-repo-action?label=)](https://github.com/siakhooi/publish-to-repo-action/releases/latest) | publish files to other repo |
+| Type          | Others                                                                       |                                                                                                                                                                  |                              |
+| ------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| Github Action | [publish-to-repo-action](https://github.com/siakhooi/publish-to-repo-action) | [![Release](https://img.shields.io/github/v/release/siakhooi/publish-to-repo-action?label=)](https://github.com/siakhooi/publish-to-repo-action/releases/latest) | publish files to other repo  |
+| Docker Image  | [console](https://github.com/siakhooi/console)                               | [![Release](https://img.shields.io/github/v/release/siakhooi/console?label=)](https://github.com/siakhooi/console/releases/latest)                               | troubleshoot docker services |
+| Minizinc      | [sudoku-resolver](https://github.com/siakhooi/sudoku-resolver)               |                                                                                                                                                                  | Sudoku Resolver              |
 
-| Docker Image                                   |                                                                                                                                    |                              |
-| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [console](https://github.com/siakhooi/console) | [![Release](https://img.shields.io/github/v/release/siakhooi/console?label=)](https://github.com/siakhooi/console/releases/latest) | troubleshoot docker services |
 
 | AI Models                                                    |                            |
 | ------------------------------------------------------------ | -------------------------- |
@@ -66,17 +65,12 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 | [logic-gates](https://github.com/siakhooi/model-logic-gates) | Non-linearity              |
 | [xor](https://github.com/siakhooi/model-xor)                 | Non-linearity              |
 
-| Minizinc                                                       | Projects        |
-| -------------------------------------------------------------- | --------------- |
-| [sudoku-resolver](https://github.com/siakhooi/sudoku-resolver) | Sudoku Resolver |
-
-| Latex                                            | Projects     | Pages                               |
-| ------------------------------------------------ | ------------ | ----------------------------------- |
-| [buddhism](https://github.com/siakhooi/buddhism) | Buddhism PDF | https://siakhooi.github.io/buddhism |
-
-| Scratch                                              | Projects                 | Pages                                  |
-| ---------------------------------------------------- | ------------------------ | -------------------------------------- |
-| [carbon-war](https://github.com/siakhooi/carbon-war) | Projectory Shooting Game | https://siakhooi.github.io/carbon-war/ |
+| Pages                                                                      |                                   |                                                  |
+| -------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------ |
+| [buddhism](https://github.com/siakhooi/buddhism)                           | Latex: Buddhism PDF               | https://siakhooi.github.io/buddhism              |
+| [carbon-war](https://github.com/siakhooi/carbon-war)                       | Scratch: Projectory Shooting Game | https://siakhooi.github.io/carbon-war/           |
+| [heroes-of-jin-yong](https://github.com/siakhooi/heroes-of-jin-yong)       |                                   | https://siakhooi.github.io/heroes-of-jin-yong    |
+| [street-fighter-zero-2](https://github.com/siakhooi/street-fighter-zero-2) |                                   | https://siakhooi.github.io/street-fighter-zero-2 |
 
 |                                                            | Repositories/Artifacts | Pages                                  |
 | ---------------------------------------------------------- | ---------------------- | -------------------------------------- |
@@ -146,11 +140,6 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 | [reactjs-tutorial-tic-tac-toe](https://github.com/siakhooi/reactjs-tutorial-tic-tac-toe)     | `[Legacy]` Tic-Tac-Toe (ReactJs)            | https://siakhooi.github.io/reactjs-tutorial-tic-tac-toe   |
 | [javascript-clock-mouse-pointer](https://github.com/siakhooi/javascript-clock-mouse-pointer) | `[Legacy]` Clock Mouse Pointer (Javascript) | https://siakhooi.github.io/javascript-clock-mouse-pointer |
 | [expressjs-url-shortener](https://github.com/siakhooi/expressjs-url-shortener)               | `[Legacy]` URL-Shortener (expressjs)        |
-
-| Static                                                                     | Pages                                            |
-| -------------------------------------------------------------------------- | ------------------------------------------------ |
-| [heroes-of-jin-yong](https://github.com/siakhooi/heroes-of-jin-yong)       | https://siakhooi.github.io/heroes-of-jin-yong    |
-| [street-fighter-zero-2](https://github.com/siakhooi/street-fighter-zero-2) | https://siakhooi.github.io/street-fighter-zero-2 |
 
 [![Wise](https://img.shields.io/badge/Funding-Wise-33cb56.svg?logo=wise)](https://wise.com/pay/me/siakn3)
 ![visitors](https://hit-tztugwlsja-uc.a.run.app/?outputtype=badge&counter=ghmd-siakhooi)
