@@ -33,7 +33,7 @@
 | [configmap-reader](https://github.com/siakhooi/configmap-reader)             | [![Release](https://img.shields.io/github/v/release/siakhooi/configmap-reader?label=)](https://github.com/siakhooi/configmap-reader/releases/latest)             | `microservice` return content of configmap                        |
 | [bpmn-print](https://github.com/siakhooi/bpmn-print)                         | [![Release](https://img.shields.io/github/v/release/siakhooi/bpmn-print?label=)](https://github.com/siakhooi/bpmn-print/releases/latest)                         | `cli` create pdf for bpmn files                                   |
 
-| TypeScript/Firebase/NPM                                                        |                                                                                                                                                                    | Projects                                        | Pages                                              |
+| TypeScript/Firebase/NPM                                                        |                                                                                                                                                                    |                                                 |                                                    |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- | -------------------------------------------------- |
 | [webcounter](https://github.com/siakhooi/webcounter)                           | [![Release](https://img.shields.io/github/v/release/siakhooi/webcounter?label=)](https://github.com/siakhooi/webcounter/releases/latest)                           | Langkasuka, a Serverless Web counter (Firebase) |
 | [number-to-chinese-words](https://github.com/siakhooi/number-to-chinese-words) | [![Release](https://img.shields.io/github/v/release/siakhooi/number-to-chinese-words?label=)](https://github.com/siakhooi/number-to-chinese-words/releases/latest) | Convert number to chinese words (npm library)   | https://siakhooi.github.io/number-to-chinese-words |
@@ -52,11 +52,11 @@
 
 Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](https://github.com/siakhooi/textutils) [fileutils](https://github.com/siakhooi/fileutils) [date-formats](https://github.com/siakhooi/date-formats) [echo-colors](https://github.com/siakhooi/echo-colors)
 
-| Type          | Others                                                                       |                                                                                                                                                                  |                              |
-| ------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| Github Action | [publish-to-repo-action](https://github.com/siakhooi/publish-to-repo-action) | [![Release](https://img.shields.io/github/v/release/siakhooi/publish-to-repo-action?label=)](https://github.com/siakhooi/publish-to-repo-action/releases/latest) | publish files to other repo  |
-| Docker Image  | [console](https://github.com/siakhooi/console)                               | [![Release](https://img.shields.io/github/v/release/siakhooi/console?label=)](https://github.com/siakhooi/console/releases/latest)                               | troubleshoot docker services |
-| Minizinc      | [sudoku-resolver](https://github.com/siakhooi/sudoku-resolver)               |                                                                                                                                                                  | Sudoku Resolver              |
+| Others                                                                       |                                                                                                                                                                  | Type          |                              |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------------------------- |
+| [publish-to-repo-action](https://github.com/siakhooi/publish-to-repo-action) | [![Release](https://img.shields.io/github/v/release/siakhooi/publish-to-repo-action?label=)](https://github.com/siakhooi/publish-to-repo-action/releases/latest) | Github Action | publish files to other repo  |
+| [console](https://github.com/siakhooi/console)                               | [![Release](https://img.shields.io/github/v/release/siakhooi/console?label=)](https://github.com/siakhooi/console/releases/latest)                               | Docker Image  | troubleshoot docker services |
+| [sudoku-resolver](https://github.com/siakhooi/sudoku-resolver)               |                                                                                                                                                                  | Minizinc      | Sudoku Resolver              |
 
 
 | AI Models                                                    |                            |
@@ -68,11 +68,11 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 | Pages                                                                      |                                   |                                                  |
 | -------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------ |
 | [buddhism](https://github.com/siakhooi/buddhism)                           | Latex: Buddhism PDF               | https://siakhooi.github.io/buddhism              |
-| [carbon-war](https://github.com/siakhooi/carbon-war)                       | Scratch: Projectory Shooting Game | https://siakhooi.github.io/carbon-war/           |
+| [carbon-war](https://github.com/siakhooi/carbon-war)                       | Scratch: Projectory Shooting Game | https://siakhooi.github.io/carbon-war            |
 | [heroes-of-jin-yong](https://github.com/siakhooi/heroes-of-jin-yong)       |                                   | https://siakhooi.github.io/heroes-of-jin-yong    |
 | [street-fighter-zero-2](https://github.com/siakhooi/street-fighter-zero-2) |                                   | https://siakhooi.github.io/street-fighter-zero-2 |
 
-|                                                            | Repositories/Artifacts | Pages                                  |
+|                                                            | Repositories/Artifacts |                                        |
 | ---------------------------------------------------------- | ---------------------- | -------------------------------------- |
 | [devcontainers](https://github.com/siakhooi/devcontainers) | My Devcontainers       |
 | [apt](https://github.com/siakhooi/apt)                     | My APT Repo            | https://siakhooi.github.io/apt         |
@@ -93,7 +93,7 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 | pypi.org       | https://pypi.org/user/siakhooi/                      |
 | Artifacthub.io | https://artifacthub.io/packages/search?repo=siakhooi |
 
-|                                                                                                          | Codility Challenges             |
+| Codility Challenges                                                                                      |                                 |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------- |
 | [codility-pi-challenge-2023](https://github.com/siakhooi/codility-pi-challenge-2023)                     | Pi Code Challenge 2023          |
 | [codility-year-of-the-rabbit-2023](https://github.com/siakhooi/codility-year-of-the-rabbit-2023)         | Year of the Rabbit 2023         |
@@ -130,7 +130,7 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 | [codility-strontium-2019](https://github.com/siakhooi/codility-strontium-2019)                           | Strontium 2019                  |
 | [codility-rubidium-2018](https://github.com/siakhooi/codility-rubidium-2018)                             | Rubidium 2018                   |
 
-|                                                                                              | Legacy Projects                             | Pages                                                     |
+| Legacy Projects                                                                              |                                             |                                                           |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------- | --------------------------------------------------------- |
 | [bukusaga](https://github.com/siakhooi/bukusaga)                                             | 4 Classic Chinese Novels                    | https://siakhooi.github.io/bukusaga                       |
 | [java-g5-framework](https://github.com/siakhooi/java-g5-framework)                           | G5 Application Framework (Java Swing)       | https://siakhooi.github.io/java-g5-framework              |
