@@ -74,9 +74,10 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 
 |                                                            | Repositories/Artifacts |                                        |
 | ---------------------------------------------------------- | ---------------------- | -------------------------------------- |
-| [devcontainers](https://github.com/siakhooi/devcontainers) | My Devcontainers       |
+| [devcontainers](https://github.com/siakhooi/devcontainers) | My Devcontainers       |                                        |
 | [apt](https://github.com/siakhooi/apt)                     | My APT Repo            | https://siakhooi.github.io/apt         |
 | [rpms](https://github.com/siakhooi/rpms)                   | My RPMS Repo           | https://siakhooi.github.io/rpms        |
+| [homebrew-tap](https://github.com/siakhooi/homebrew-tap)   | My Homebrew Tap Repo   |                                        |
 | [helm-charts](https://github.com/siakhooi/helm-charts)     | My Helm Charts         | https://siakhooi.github.io/helm-charts |
 | [ca](https://github.com/siakhooi/ca)                       | My CA                  | https://siakhooi.github.io/ca          |
 
