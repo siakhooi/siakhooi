@@ -72,14 +72,15 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 | [heroes-of-jin-yong](https://github.com/siakhooi/heroes-of-jin-yong)       |                                   | https://siakhooi.github.io/heroes-of-jin-yong    |
 | [street-fighter-zero-2](https://github.com/siakhooi/street-fighter-zero-2) |                                   | https://siakhooi.github.io/street-fighter-zero-2 |
 
-|                                                            | Repositories/Artifacts |                                        |
-| ---------------------------------------------------------- | ---------------------- | -------------------------------------- |
-| [devcontainers](https://github.com/siakhooi/devcontainers) | My Devcontainers       |                                        |
-| [apt](https://github.com/siakhooi/apt)                     | My APT Repo            | https://siakhooi.github.io/apt         |
-| [rpms](https://github.com/siakhooi/rpms)                   | My RPMS Repo           | https://siakhooi.github.io/rpms        |
-| [homebrew-tap](https://github.com/siakhooi/homebrew-tap)   | My Homebrew Tap Repo   |                                        |
-| [helm-charts](https://github.com/siakhooi/helm-charts)     | My Helm Charts         | https://siakhooi.github.io/helm-charts |
-| [ca](https://github.com/siakhooi/ca)                       | My CA                  | https://siakhooi.github.io/ca          |
+|                                                                  | Repositories/Artifacts |                                         |
+| ---------------------------------------------------------------- | ---------------------- | --------------------------------------- |
+| [devcontainers](https://github.com/siakhooi/devcontainers)       | My Devcontainers       |                                         |
+| [apt](https://github.com/siakhooi/apt)                           | My APT Repo            | https://siakhooi.github.io/apt          |
+| [rpms](https://github.com/siakhooi/rpms)                         | My RPMS Repo           | https://siakhooi.github.io/rpms         |
+| [homebrew-tap](https://github.com/siakhooi/homebrew-tap)         | My Homebrew Tap Repo   |                                         |
+| [helm-charts](https://github.com/siakhooi/helm-charts)           | My Helm Charts         | https://siakhooi.github.io/helm-charts  |
+| [ca](https://github.com/siakhooi/ca)                             | My CA                  | https://siakhooi.github.io/ca           |
+| [winget-manifests](https://github.com/siakhooi/winget-manifests) | My Winget Manifests    | https://github.com/siakhooi/winget-pkgs |
 
 |            | Quality Profiles                                      |
 | ---------- | ----------------------------------------------------- |
