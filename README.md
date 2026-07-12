@@ -1,6 +1,6 @@
-👋 Hi, I'm Siak Hooi. I enjoy solving problems by writing software. 
-Most of my repositories started as tools I needed myself and eventually grew into reusable open-source projects. 
-I build tools (mostly for developers) in Go, Java, Python, TypeScript, and Bash, covering CLI tools, microservices, Kubernetes, GitHub Actions, AI, and developer utilities.
+👋 Hi, I'm Siak Hooi. I enjoy solving problems by writing software.
+Most of my repositories started as tools I needed myself and eventually grew into reusable open-source projects.
+I build tools in Go, Java, Python, TypeScript, and Bash, covering CLI tools, microservices, Kubernetes, GitHub Actions, AI, and developer utilities.
 Most of my projects are focus on automation, developer productivity, cloud-native infrastructure, and making everyday engineering tasks a little easier.
 
 Feel free to explore my projects below.
@@ -29,6 +29,7 @@ Feel free to explore my projects below.
 | [terminalizer2asciinema](https://github.com/siakhooi/terminalizer2asciinema) | [![Release](https://img.shields.io/github/v/release/siakhooi/terminalizer2asciinema?label=)](https://github.com/siakhooi/terminalizer2asciinema/releases/latest) | `cli` convert terminalizer to asciinema format                    |
 | [configmap-reader](https://github.com/siakhooi/configmap-reader)             | [![Release](https://img.shields.io/github/v/release/siakhooi/configmap-reader?label=)](https://github.com/siakhooi/configmap-reader/releases/latest)             | `microservice` return content of configmap                        |
 | [bpmn-print](https://github.com/siakhooi/bpmn-print)                         | [![Release](https://img.shields.io/github/v/release/siakhooi/bpmn-print?label=)](https://github.com/siakhooi/bpmn-print/releases/latest)                         | `cli` create pdf for bpmn files                                   |
+| [download-youtube-music](https://github.com/siakhooi/download-youtube-music) |                                                                                                                                                                  | `cli` download audio of youtube video in mp3/ogg/etc format       |
 
 | TypeScript/Firebase/NPM                                                        |                                                                                                                                                                    |                                                 |                                                    |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- | -------------------------------------------------- |
@@ -54,7 +55,7 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 | [publish-to-repo-action](https://github.com/siakhooi/publish-to-repo-action) | [![Release](https://img.shields.io/github/v/release/siakhooi/publish-to-repo-action?label=)](https://github.com/siakhooi/publish-to-repo-action/releases/latest) | Github Action | publish files to other repo  |
 | [console](https://github.com/siakhooi/console)                               | [![Release](https://img.shields.io/github/v/release/siakhooi/console?label=)](https://github.com/siakhooi/console/releases/latest)                               | Docker Image  | troubleshoot docker services |
 | [sudoku-resolver](https://github.com/siakhooi/sudoku-resolver)               |                                                                                                                                                                  | Minizinc      | Sudoku Resolver              |
-
+| [mcp-mariadb](https://github.com/siakhooi/mcp-mariadb)                       |                                                                                                                                                                  | MCP Server    | connect mariadb for dev      |
 
 | AI Models                                                    |                            |
 | ------------------------------------------------------------ | -------------------------- |
