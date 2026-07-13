@@ -1,9 +1,10 @@
-👋 Hi, I'm Siak Hooi. I enjoy solving problems by writing software.
-Most of my repositories started as tools I needed myself and eventually grew into reusable open-source projects.
-I build tools in Go, Java, Python, TypeScript, and Bash, covering CLI tools, microservices, Kubernetes, GitHub Actions, AI, and developer utilities.
-Most of my projects are focus on automation, developer productivity, cloud-native infrastructure, and making everyday engineering tasks a little easier.
+👋 Hi, I'm Siak Hooi.
 
-Feel free to explore my projects below.
+I enjoy solving problems by writing software. Most of my repositories started as tools I needed myself and eventually grew into reusable open-source projects.
+
+I build software in Go, Java, Python, TypeScript, and Bash, including CLI tools, microservices, Kubernetes utilities, GitHub Actions, AI/ML experiments, and developer tooling. Most of my projects focus on automation, developer productivity, cloud-native infrastructure, and making everyday engineering tasks a little easier.
+
+Feel free to explore my projects below!
 
 | Go                                                       |                                                                                                                                              |                                                        |
 | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
