@@ -49,6 +49,7 @@ Feel free to explore my projects below!
 | [devy](https://github.com/siakhooi/devy)                 | [![Release](https://img.shields.io/github/v/release/siakhooi/devy?label=)](https://github.com/siakhooi/devy/releases/latest)                 | dev scripts for devcontainers/wsl                                |
 | [ore](https://github.com/siakhooi/ore)                   | [![Release](https://img.shields.io/github/v/release/siakhooi/ore?label=)](https://github.com/siakhooi/ore/releases/latest)                   | automatically download,distribute artifacts from various sources |
 | [buildo](https://github.com/siakhooi/buildo)             | [![Release](https://img.shields.io/github/v/release/siakhooi/buildo?label=)](https://github.com/siakhooi/buildo/releases/latest)             | power toys for builder                                           |
+| [ele](https://github.com/siakhooi/ele)                   | [![Release](https://img.shields.io/github/v/release/siakhooi/ele?label=)](https://github.com/siakhooi/ele/releases/latest)                   | docker compose cluster                                           |
 
 Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](https://github.com/siakhooi/textutils) [fileutils](https://github.com/siakhooi/fileutils) [date-formats](https://github.com/siakhooi/date-formats) [echo-colors](https://github.com/siakhooi/echo-colors)
 
@@ -71,6 +72,7 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 | [carbon-war](https://github.com/siakhooi/carbon-war)                       | Scratch: Projectory Shooting Game | https://siakhooi.github.io/carbon-war            |
 | [heroes-of-jin-yong](https://github.com/siakhooi/heroes-of-jin-yong)       |                                   | https://siakhooi.github.io/heroes-of-jin-yong    |
 | [street-fighter-zero-2](https://github.com/siakhooi/street-fighter-zero-2) |                                   | https://siakhooi.github.io/street-fighter-zero-2 |
+| [maps](https://github.com/siakhooi/maps)                                   | My Maps                           | https://siakhooi.github.io/maps                  |
 
 |                                                                  | Repositories/Artifacts |                                         |
 | ---------------------------------------------------------------- | ---------------------- | --------------------------------------- |
