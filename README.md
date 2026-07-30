@@ -80,6 +80,7 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 | [apt](https://github.com/siakhooi/apt)                           | My APT Repo            | https://siakhooi.github.io/apt          |
 | [rpms](https://github.com/siakhooi/rpms)                         | My RPMS Repo           | https://siakhooi.github.io/rpms         |
 | [homebrew-tap](https://github.com/siakhooi/homebrew-tap)         | My Homebrew Tap Repo   |                                         |
+| [scoop-bucket](https://github.com/siakhooi/scoop-bucket)         | My Scoop Bucket Repo   |                                         |
 | [helm-charts](https://github.com/siakhooi/helm-charts)           | My Helm Charts         | https://siakhooi.github.io/helm-charts  |
 | [ca](https://github.com/siakhooi/ca)                             | My CA                  | https://siakhooi.github.io/ca           |
 | [winget-manifests](https://github.com/siakhooi/winget-manifests) | My Winget Manifests    | https://github.com/siakhooi/winget-pkgs |
