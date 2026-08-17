@@ -59,6 +59,7 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 | [console](https://github.com/siakhooi/console)                               | [![Release](https://img.shields.io/github/v/release/siakhooi/console?label=)](https://github.com/siakhooi/console/releases/latest)                               | Docker Image  | troubleshoot docker services |
 | [mcp-mariadb](https://github.com/siakhooi/mcp-mariadb)                       | [![Release](https://img.shields.io/github/v/release/siakhooi/mcp-mariadb?label=)](https://github.com/siakhooi/mcp-mariadb/releases/latest)                       | MCP Server    | connect mariadb for dev      |
 | [sudoku-resolver](https://github.com/siakhooi/sudoku-resolver)               |                                                                                                                                                                  | Minizinc      | Sudoku Resolver              |
+| [my-repo-management](https://github.com/siakhooi/my-repo-management)         |                                                                                                                                                                  |               | Special Repo to auto close PR                |
 
 | AI Models                                                    |                            |
 | ------------------------------------------------------------ | -------------------------- |
