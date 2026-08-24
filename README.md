@@ -79,6 +79,8 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 | ---------------------------------------------------------------- | ---------------------- | --------------------------------------- |
 | [devcontainers](https://github.com/siakhooi/devcontainers)       | My Devcontainers       |                                         |
 | [apt](https://github.com/siakhooi/apt)                           | My APT Repo            | https://siakhooi.github.io/apt          |
+| [apt-linux](https://github.com/siakhooi/apt-linux)               | My APT Repo for Linux  | https://siakhooi.github.io/apt-linux    |
+| [apt-termux](https://github.com/siakhooi/apt-termux)             | My APT Repo for Termux | https://siakhooi.github.io/apt-termux   |
 | [rpms](https://github.com/siakhooi/rpms)                         | My RPMS Repo           | https://siakhooi.github.io/rpms         |
 | [homebrew-tap](https://github.com/siakhooi/homebrew-tap)         | My Homebrew Tap Repo   |                                         |
 | [scoop-bucket](https://github.com/siakhooi/scoop-bucket)         | My Scoop Bucket Repo   |                                         |
