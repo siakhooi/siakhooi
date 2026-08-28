@@ -74,6 +74,7 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 | [heroes-of-jin-yong](https://github.com/siakhooi/heroes-of-jin-yong)       |                                   | https://siakhooi.github.io/heroes-of-jin-yong    |
 | [street-fighter-zero-2](https://github.com/siakhooi/street-fighter-zero-2) |                                   | https://siakhooi.github.io/street-fighter-zero-2 |
 | [maps](https://github.com/siakhooi/maps)                                   | My Maps                           | https://siakhooi.github.io/maps                  |
+| [book-covers](https://github.com/siakhooi/book-covers)                     | My Book Cover Images              | https://siakhooi.github.io/book-covers           |
 
 |                                                                  | Repositories/Artifacts |                                         |
 | ---------------------------------------------------------------- | ---------------------- | --------------------------------------- |
