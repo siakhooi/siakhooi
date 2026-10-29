@@ -105,6 +105,7 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 | hub.docker.com | https://hub.docker.com/u/siakhooi                    |
 | pypi.org       | https://pypi.org/user/siakhooi/                      |
 | Artifacthub.io | https://artifacthub.io/packages/search?repo=siakhooi |
+| Visual Studio Marketplace | https://marketplace.visualstudio.com/publishers/siakhooi |
 
 | Codility Challenges                                                                                      |                                 |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------- |
