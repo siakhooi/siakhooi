@@ -106,6 +106,7 @@ Developer Utils: [devutils](https://github.com/siakhooi/devutils) [textutils](ht
 | pypi.org       | https://pypi.org/user/siakhooi/                      |
 | Artifacthub.io | https://artifacthub.io/packages/search?repo=siakhooi |
 | Visual Studio Marketplace | https://marketplace.visualstudio.com/publishers/siakhooi |
+| Open VSX Registry | https://open-vsx.org/namespace/siakhooi |
 
 | Codility Challenges                                                                                      |                                 |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------- |
